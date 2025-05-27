@@ -1,0 +1,1001 @@
+id_incident,date,description,priorité
+INC00000001,2024-08-23,Le service informatique rencontrent une situation de panne critique sur le logiciel DBS.,Moyenne
+INC00000002,2021-03-04,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Très faible
+INC00000003,2022-11-05,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Faible
+INC00000004,2024-04-11,Le siège rencontrent une situation de bug visuel sur le logiciel SAB.,Moyenne
+INC00000005,2022-12-01,Un seul utilisateur rencontrent une situation de latence sur le logiciel RAPT.,Faible
+INC00000006,2022-10-20,Le siège rencontrent une situation de attaque sur le logiciel DOCUBASE.,Élevée
+INC00000007,2024-07-21,Le service informatique rencontrent une situation de panne critique sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000008,2021-08-04,Un seul utilisateur rencontrent une situation de latence sur le logiciel ERM-X.,Très faible
+INC00000009,2020-04-24,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel RAPT.,Très faible
+INC00000010,2023-07-01,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Faible
+INC00000011,2022-10-06,Le siège rencontrent une situation de latence sur le logiciel RAPT.,Moyenne
+INC00000012,2021-02-14,Une agence régionale rencontrent une situation de dysfonctionnement mineur sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Faible
+INC00000013,2023-08-08,Le siège rencontrent une situation de indisponibilité totale sur le logiciel ERM-X.,Critique
+INC00000014,2020-05-04,Plusieurs agences rencontrent une situation de intrusion sur le logiciel DBS.,Critique
+INC00000015,2024-05-25,Plusieurs agences rencontrent une situation de latence sur le logiciel GPI. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000016,2024-01-30,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel CRM-X.,Faible
+INC00000017,2023-02-12,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel DOCUBASE.,Critique
+INC00000018,2022-08-13,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Élevée
+INC00000019,2021-01-13,Le service informatique rencontrent une situation de panne critique sur le logiciel SERVICENOW.,Moyenne
+INC00000020,2023-11-01,Une agence régionale rencontrent une situation de erreur mineure sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Faible
+INC00000021,2023-06-02,Le siège rencontrent une situation de latence sur le logiciel SBS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000022,2021-12-23,Le siège rencontrent une situation de intrusion sur le logiciel SERVICEITECH.,Critique
+INC00000023,2023-08-22,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel GPI.,Faible
+INC00000024,2021-08-14,Une agence régionale rencontrent une situation de panne critique sur le logiciel SERVICEITECH.,Moyenne
+INC00000025,2024-09-29,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Faible
+INC00000026,2024-08-14,Plusieurs agences rencontrent une situation de panne critique sur le logiciel SERVICENOW.,Critique
+INC00000027,2022-07-06,Une agence régionale rencontrent une situation de panne critique sur le logiciel DBS.,Moyenne
+INC00000028,2020-06-18,Le service informatique rencontrent une situation de latence sur le logiciel E-BANKING.,Faible
+INC00000029,2020-04-02,Le siège rencontrent une situation de perte de données sur le logiciel AUTOSYS.,Élevée
+INC00000030,2024-11-21,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Critique
+INC00000031,2020-04-15,Une agence régionale rencontrent une situation de latence sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Faible
+INC00000032,2021-03-14,Le service informatique rencontrent une situation de panne critique sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000033,2020-11-14,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel CFT.,Très faible
+INC00000034,2022-01-05,Un seul utilisateur rencontrent une situation de latence sur le logiciel I-CASH.,Faible
+INC00000035,2023-12-08,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel CRM-X. Cela engendre une perturbation des services métiers.,Faible
+INC00000036,2024-08-25,Le service informatique rencontrent une situation de panne critique sur le logiciel ERP-Paris.,Moyenne
+INC00000037,2021-03-24,Le siège rencontrent une situation de crash complet sur le logiciel GPI. Cela engendre une perturbation des services métiers.,Critique
+INC00000038,2022-07-06,Le siège rencontrent une situation de attaque sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Critique
+INC00000039,2024-05-26,Plusieurs agences rencontrent une situation de perte de données sur le logiciel DOCUBASE.,Critique
+INC00000040,2022-11-29,Le siège rencontrent une situation de perte de données sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Élevée
+INC00000041,2022-12-19,Tous les utilisateurs rencontrent une situation de perte de données sur le logiciel NOVAFLOW.,Critique
+INC00000042,2024-08-15,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel SERVICENOW.,Critique
+INC00000043,2023-12-02,Plusieurs agences rencontrent une situation de bug visuel sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000044,2020-10-22,Le siège rencontrent une situation de intrusion sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Critique
+INC00000045,2024-11-05,Le siège rencontrent une situation de bug visuel sur le logiciel E-BANKING.,Moyenne
+INC00000046,2024-08-14,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel ERP-Paris.,Moyenne
+INC00000047,2023-02-19,Un seul utilisateur rencontrent une situation de latence sur le logiciel SERVICENOW.,Très faible
+INC00000048,2024-07-15,Le siège rencontrent une situation de intrusion sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Critique
+INC00000049,2022-02-07,Tous les utilisateurs rencontrent une situation de panne critique sur le logiciel SERVICENOW.,Élevée
+INC00000050,2021-06-11,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel CRM-X. Cela engendre une perturbation des services métiers.,Élevée
+INC00000051,2021-07-08,Plusieurs agences rencontrent une situation de panne critique sur le logiciel CLICKER.,Critique
+INC00000052,2022-04-28,Plusieurs agences rencontrent une situation de bug visuel sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000053,2021-11-28,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Faible
+INC00000054,2021-02-13,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Très faible
+INC00000055,2021-12-17,Le service informatique rencontrent une situation de latence sur le logiciel DBS.,Faible
+INC00000056,2023-04-11,Plusieurs agences rencontrent une situation de latence sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000057,2020-10-01,Tous les utilisateurs rencontrent une situation de perte de données sur le logiciel I-CASH.,Critique
+INC00000058,2021-06-30,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Faible
+INC00000059,2024-09-09,Tous les utilisateurs rencontrent une situation de perte de données sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Critique
+INC00000060,2024-05-21,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel SERVICEITECH.,Moyenne
+INC00000061,2020-01-25,Le service informatique rencontrent une situation de panne critique sur le logiciel AUTOSYS.,Moyenne
+INC00000062,2022-07-23,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000063,2024-05-11,Plusieurs agences rencontrent une situation de panne critique sur le logiciel AUTOSYS.,Critique
+INC00000064,2021-05-11,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel DBS.,Moyenne
+INC00000065,2023-01-20,Le siège rencontrent une situation de latence sur le logiciel AUTOSYS.,Moyenne
+INC00000066,2022-10-02,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel RAPT.,Critique
+INC00000067,2021-09-03,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000068,2022-05-17,Tous les utilisateurs rencontrent une situation de panne critique sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Critique
+INC00000069,2023-02-10,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel SAB.,Élevée
+INC00000070,2020-08-10,Le siège rencontrent une situation de attaque sur le logiciel CRM-X.,Critique
+INC00000071,2023-09-02,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Faible
+INC00000072,2024-10-12,Plusieurs agences rencontrent une situation de intrusion sur le logiciel SERVICEITECH.,Critique
+INC00000073,2023-01-23,Le siège rencontrent une situation de bug visuel sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000074,2022-01-16,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel ERP-Paris.,Critique
+INC00000075,2021-03-21,Une agence régionale rencontrent une situation de erreur mineure sur le logiciel MOBIAPP.,Faible
+INC00000076,2021-10-12,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel AUTOSYS.,Moyenne
+INC00000077,2024-04-22,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000078,2021-06-19,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel GPI.,Très faible
+INC00000079,2022-07-11,Plusieurs agences rencontrent une situation de indisponibilité totale sur le logiciel MOBIAPP.,Élevée
+INC00000080,2020-12-03,Le siège rencontrent une situation de latence sur le logiciel CRM-X. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000081,2021-02-10,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Très faible
+INC00000082,2021-06-06,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000083,2024-03-19,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel CRM-X.,Faible
+INC00000084,2024-08-16,Une agence régionale rencontrent une situation de panne critique sur le logiciel GPI. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000085,2024-09-01,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel E-BANKING.,Élevée
+INC00000086,2022-07-13,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel NOVAFLOW.,Faible
+INC00000087,2020-09-20,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel MOBIAPP.,Faible
+INC00000088,2021-11-05,Le service informatique rencontrent une situation de panne critique sur le logiciel DBS.,Moyenne
+INC00000089,2024-05-22,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel E-BANKING.,Faible
+INC00000090,2023-10-14,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel SBS.,Moyenne
+INC00000091,2021-08-19,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Faible
+INC00000092,2022-07-17,Une agence régionale rencontrent une situation de erreur mineure sur le logiciel SERVICEITECH.,Faible
+INC00000093,2021-04-02,Une agence régionale rencontrent une situation de latence sur le logiciel ERP-Paris.,Faible
+INC00000094,2021-08-02,Le service informatique rencontrent une situation de panne critique sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000095,2022-01-28,Plusieurs agences rencontrent une situation de attaque sur le logiciel GPI.,Critique
+INC00000096,2022-07-01,Plusieurs agences rencontrent une situation de bug visuel sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000097,2022-10-28,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel SBS. Cela engendre une perturbation des services métiers.,Très faible
+INC00000098,2020-08-05,Plusieurs agences rencontrent une situation de latence sur le logiciel CLICKER.,Moyenne
+INC00000099,2021-11-05,Le siège rencontrent une situation de bug visuel sur le logiciel DBS.,Moyenne
+INC00000100,2024-11-28,Le service informatique rencontrent une situation de panne critique sur le logiciel SAB.,Moyenne
+INC00000101,2020-07-01,Tous les utilisateurs rencontrent une situation de crash complet sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Critique
+INC00000102,2021-05-20,Le service informatique rencontrent une situation de erreur mineure sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Très faible
+INC00000103,2024-06-25,Le siège rencontrent une situation de attaque sur le logiciel SAB.,Critique
+INC00000104,2021-02-04,Le service informatique rencontrent une situation de erreur mineure sur le logiciel I-CASH.,Très faible
+INC00000105,2024-02-01,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel E-BANKING. Cela engendre une perturbation des services métiers.,Faible
+INC00000106,2023-08-17,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel CFT.,Faible
+INC00000107,2020-09-13,Une agence régionale rencontrent une situation de panne critique sur le logiciel SAB.,Moyenne
+INC00000108,2020-05-30,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel E-BANKING.,Critique
+INC00000109,2023-09-15,Le siège rencontrent une situation de panne critique sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Élevée
+INC00000110,2021-04-30,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000111,2023-01-06,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel SBS. Cela engendre une perturbation des services métiers.,Très faible
+INC00000112,2020-05-16,Le service informatique rencontrent une situation de bug visuel sur le logiciel DBS.,Faible
+INC00000113,2022-08-08,Un seul utilisateur rencontrent une situation de latence sur le logiciel CLICKER.,Faible
+INC00000114,2023-11-28,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel SERVICENOW.,Critique
+INC00000115,2023-01-16,Tous les utilisateurs rencontrent une situation de crash complet sur le logiciel DBS.,Élevée
+INC00000116,2024-12-05,Un seul utilisateur rencontrent une situation de latence sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Faible
+INC00000117,2021-03-13,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Faible
+INC00000118,2020-07-21,Le service informatique rencontrent une situation de bug visuel sur le logiciel ERM-X.,Très faible
+INC00000119,2022-02-02,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel CRM-X. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000120,2020-01-04,Une agence régionale rencontrent une situation de latence sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Très faible
+INC00000121,2022-04-12,Le service informatique rencontrent une situation de bug visuel sur le logiciel I-CASH.,Faible
+INC00000122,2021-01-20,Une agence régionale rencontrent une situation de dysfonctionnement mineur sur le logiciel AUTOSYS.,Faible
+INC00000123,2021-07-01,Plusieurs agences rencontrent une situation de intrusion sur le logiciel SBS.,Élevée
+INC00000124,2022-11-01,Tous les utilisateurs rencontrent une situation de intrusion sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Élevée
+INC00000125,2024-04-30,Une agence régionale rencontrent une situation de bug visuel sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Faible
+INC00000126,2024-06-07,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel GPI.,Faible
+INC00000127,2023-12-03,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Faible
+INC00000128,2021-06-27,Le siège rencontrent une situation de perte de données sur le logiciel SBS.,Critique
+INC00000129,2023-11-14,Plusieurs agences rencontrent une situation de attaque sur le logiciel ERP-Paris.,Élevée
+INC00000130,2022-02-07,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel I-CASH.,Critique
+INC00000131,2023-03-05,Le siège rencontrent une situation de crash complet sur le logiciel E-BANKING. Cela engendre une perturbation des services métiers.,Critique
+INC00000132,2021-10-07,Le service informatique rencontrent une situation de erreur mineure sur le logiciel RAPT.,Faible
+INC00000133,2020-10-21,Un seul utilisateur rencontrent une situation de latence sur le logiciel GPI. Cela engendre une perturbation des services métiers.,Très faible
+INC00000134,2020-08-24,Plusieurs agences rencontrent une situation de crash complet sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Critique
+INC00000135,2024-07-12,Une agence régionale rencontrent une situation de bug visuel sur le logiciel DBS.,Faible
+INC00000136,2020-10-17,Plusieurs agences rencontrent une situation de latence sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000137,2023-01-26,Une agence régionale rencontrent une situation de bug visuel sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Faible
+INC00000138,2020-11-10,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000139,2024-09-30,Plusieurs agences rencontrent une situation de latence sur le logiciel SBS.,Moyenne
+INC00000140,2023-11-26,Une agence régionale rencontrent une situation de bug visuel sur le logiciel I-CASH.,Faible
+INC00000141,2024-11-25,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel SERVICENOW.,Moyenne
+INC00000142,2021-07-24,Tous les utilisateurs rencontrent une situation de latence sur le logiciel E-BANKING.,Moyenne
+INC00000143,2022-01-29,Plusieurs agences rencontrent une situation de latence sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000144,2022-10-29,Le service informatique rencontrent une situation de bug visuel sur le logiciel CRM-X.,Faible
+INC00000145,2020-02-11,Plusieurs agences rencontrent une situation de attaque sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Critique
+INC00000146,2023-03-25,Tous les utilisateurs rencontrent une situation de panne critique sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Élevée
+INC00000147,2024-09-19,Une agence régionale rencontrent une situation de panne critique sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000148,2022-05-14,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Faible
+INC00000149,2021-02-04,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel MOBIAPP.,Très faible
+INC00000150,2024-11-25,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Faible
+INC00000151,2022-07-03,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000152,2023-02-24,Le siège rencontrent une situation de crash complet sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Élevée
+INC00000153,2023-02-27,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Faible
+INC00000154,2021-09-16,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel SBS. Cela engendre une perturbation des services métiers.,Faible
+INC00000155,2023-06-04,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel GPI.,Faible
+INC00000156,2020-08-11,Plusieurs agences rencontrent une situation de attaque sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Critique
+INC00000157,2020-09-27,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Faible
+INC00000158,2023-02-23,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel ERM-X.,Très faible
+INC00000159,2023-05-23,Le siège rencontrent une situation de intrusion sur le logiciel SBS.,Critique
+INC00000160,2023-07-03,Plusieurs agences rencontrent une situation de attaque sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Critique
+INC00000161,2022-03-06,Plusieurs agences rencontrent une situation de perte de données sur le logiciel NOVAFLOW.,Élevée
+INC00000162,2024-06-18,Plusieurs agences rencontrent une situation de bug visuel sur le logiciel GPI.,Moyenne
+INC00000163,2024-07-07,Une agence régionale rencontrent une situation de panne critique sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000164,2023-05-28,Une agence régionale rencontrent une situation de latence sur le logiciel I-CASH.,Faible
+INC00000165,2021-06-06,Une agence régionale rencontrent une situation de panne critique sur le logiciel CRM-X.,Moyenne
+INC00000166,2022-05-18,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Faible
+INC00000167,2023-05-23,Une agence régionale rencontrent une situation de bug visuel sur le logiciel ERM-X.,Faible
+INC00000168,2022-01-06,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel SERVICENOW.,Très faible
+INC00000169,2022-12-16,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel E-BANKING. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000170,2023-08-30,Plusieurs agences rencontrent une situation de perte de données sur le logiciel CLICKER.,Critique
+INC00000171,2022-10-08,Plusieurs agences rencontrent une situation de crash complet sur le logiciel SERVICENOW.,Critique
+INC00000172,2020-08-25,Tous les utilisateurs rencontrent une situation de panne critique sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Critique
+INC00000173,2023-09-17,Le service informatique rencontrent une situation de panne critique sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000174,2022-08-15,Une agence régionale rencontrent une situation de bug visuel sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Faible
+INC00000175,2020-02-26,Le service informatique rencontrent une situation de bug visuel sur le logiciel CLICKER.,Faible
+INC00000176,2020-07-11,Plusieurs agences rencontrent une situation de crash complet sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Élevée
+INC00000177,2022-05-24,Le siège rencontrent une situation de latence sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000178,2022-06-12,Le service informatique rencontrent une situation de latence sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Très faible
+INC00000179,2024-05-21,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel CRM-X.,Moyenne
+INC00000180,2024-09-18,Le siège rencontrent une situation de bug visuel sur le logiciel ERP-Paris.,Moyenne
+INC00000181,2021-09-27,Une agence régionale rencontrent une situation de dysfonctionnement mineur sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Très faible
+INC00000182,2021-04-18,Une agence régionale rencontrent une situation de latence sur le logiciel CFT.,Faible
+INC00000183,2024-05-24,Le service informatique rencontrent une situation de panne critique sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000184,2020-03-08,Plusieurs agences rencontrent une situation de bug visuel sur le logiciel NOVAFLOW.,Moyenne
+INC00000185,2021-02-12,Le service informatique rencontrent une situation de panne critique sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000186,2020-08-07,Le siège rencontrent une situation de intrusion sur le logiciel DBS.,Élevée
+INC00000187,2024-01-20,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Faible
+INC00000188,2021-03-29,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel SERVICENOW.,Moyenne
+INC00000189,2022-03-24,Le siège rencontrent une situation de perte de données sur le logiciel SBS.,Critique
+INC00000190,2023-06-14,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Faible
+INC00000191,2020-02-23,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel GPI.,Faible
+INC00000192,2022-01-27,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Faible
+INC00000193,2021-10-12,Le service informatique rencontrent une situation de bug visuel sur le logiciel CRM-X. Cela engendre une perturbation des services métiers.,Faible
+INC00000194,2023-01-14,Le siège rencontrent une situation de intrusion sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Élevée
+INC00000195,2020-04-02,Plusieurs agences rencontrent une situation de attaque sur le logiciel GPI. Cela engendre une perturbation des services métiers.,Critique
+INC00000196,2023-12-28,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel SERVICENOW.,Faible
+INC00000197,2024-05-17,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel AUTOSYS.,Faible
+INC00000198,2022-05-22,Tous les utilisateurs rencontrent une situation de latence sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000199,2022-09-22,Une agence régionale rencontrent une situation de panne critique sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000200,2024-11-29,Tous les utilisateurs rencontrent une situation de latence sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000201,2021-04-12,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel SERVICENOW.,Faible
+INC00000202,2024-08-23,Le siège rencontrent une situation de crash complet sur le logiciel ERP-Paris.,Critique
+INC00000203,2022-08-29,Le siège rencontrent une situation de bug visuel sur le logiciel E-BANKING. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000204,2022-12-01,Le siège rencontrent une situation de attaque sur le logiciel RAPT.,Critique
+INC00000205,2024-04-28,Une agence régionale rencontrent une situation de latence sur le logiciel I-CASH.,Faible
+INC00000206,2023-11-10,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel RAPT.,Moyenne
+INC00000207,2020-12-27,Tous les utilisateurs rencontrent une situation de crash complet sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Élevée
+INC00000208,2021-01-26,Le service informatique rencontrent une situation de erreur mineure sur le logiciel I-CASH.,Faible
+INC00000209,2024-07-09,Le siège rencontrent une situation de attaque sur le logiciel SAB.,Élevée
+INC00000210,2023-09-16,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Faible
+INC00000211,2024-05-16,Tous les utilisateurs rencontrent une situation de intrusion sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Critique
+INC00000212,2024-12-03,Le siège rencontrent une situation de bug visuel sur le logiciel SBS.,Moyenne
+INC00000213,2020-05-14,Le service informatique rencontrent une situation de panne critique sur le logiciel SAB.,Moyenne
+INC00000214,2024-02-29,Une agence régionale rencontrent une situation de latence sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Faible
+INC00000215,2020-07-01,Le siège rencontrent une situation de indisponibilité totale sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Critique
+INC00000216,2021-06-23,Tous les utilisateurs rencontrent une situation de crash complet sur le logiciel SAB.,Élevée
+INC00000217,2022-03-31,Plusieurs agences rencontrent une situation de perte de données sur le logiciel DBS.,Élevée
+INC00000218,2023-12-19,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Faible
+INC00000219,2024-12-09,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel CRM-X. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000220,2024-10-10,Le siège rencontrent une situation de panne critique sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Critique
+INC00000221,2021-11-11,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Faible
+INC00000222,2022-06-01,Le siège rencontrent une situation de latence sur le logiciel E-BANKING. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000223,2024-09-23,Le service informatique rencontrent une situation de latence sur le logiciel SAB.,Très faible
+INC00000224,2024-06-18,Le siège rencontrent une situation de perte de données sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Critique
+INC00000225,2022-05-16,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel RAPT.,Faible
+INC00000226,2024-02-26,Une agence régionale rencontrent une situation de bug visuel sur le logiciel GPI. Cela engendre une perturbation des services métiers.,Faible
+INC00000227,2021-06-10,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel CLICKER.,Faible
+INC00000228,2021-01-27,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel ERP-Paris.,Faible
+INC00000229,2022-02-13,Un seul utilisateur rencontrent une situation de latence sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Faible
+INC00000230,2022-12-20,Le service informatique rencontrent une situation de latence sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Faible
+INC00000231,2020-07-22,Le siège rencontrent une situation de crash complet sur le logiciel RAPT.,Critique
+INC00000232,2024-11-26,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000233,2021-10-13,Tous les utilisateurs rencontrent une situation de panne critique sur le logiciel RAPT.,Critique
+INC00000234,2023-01-12,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Faible
+INC00000235,2020-10-16,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel ERM-X.,Faible
+INC00000236,2020-05-09,Un seul utilisateur rencontrent une situation de latence sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Faible
+INC00000237,2020-08-24,Le siège rencontrent une situation de indisponibilité totale sur le logiciel AUTOSYS.,Critique
+INC00000238,2021-07-30,Le service informatique rencontrent une situation de bug visuel sur le logiciel SAB.,Faible
+INC00000239,2022-12-04,Tous les utilisateurs rencontrent une situation de perte de données sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Critique
+INC00000240,2020-10-17,Tous les utilisateurs rencontrent une situation de perte de données sur le logiciel CRM-X. Cela engendre une perturbation des services métiers.,Élevée
+INC00000241,2020-01-08,Le service informatique rencontrent une situation de latence sur le logiciel SAB.,Faible
+INC00000242,2024-02-04,Le service informatique rencontrent une situation de panne critique sur le logiciel SBS.,Moyenne
+INC00000243,2023-04-27,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Faible
+INC00000244,2020-12-04,Tous les utilisateurs rencontrent une situation de panne critique sur le logiciel CRM-X.,Critique
+INC00000245,2021-02-24,Tous les utilisateurs rencontrent une situation de perte de données sur le logiciel CRM-X.,Critique
+INC00000246,2021-03-13,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel SERVICENOW.,Moyenne
+INC00000247,2020-10-31,Le service informatique rencontrent une situation de bug visuel sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Faible
+INC00000248,2023-04-21,Tous les utilisateurs rencontrent une situation de panne critique sur le logiciel MOBIAPP.,Élevée
+INC00000249,2023-02-23,Une agence régionale rencontrent une situation de panne critique sur le logiciel E-BANKING.,Moyenne
+INC00000250,2024-07-21,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel SBS. Cela engendre une perturbation des services métiers.,Très faible
+INC00000251,2021-10-27,Le siège rencontrent une situation de perte de données sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Critique
+INC00000252,2020-12-23,Un seul utilisateur rencontrent une situation de latence sur le logiciel ERP-Paris.,Très faible
+INC00000253,2023-11-20,Une agence régionale rencontrent une situation de latence sur le logiciel SBS.,Très faible
+INC00000254,2022-07-25,Une agence régionale rencontrent une situation de panne critique sur le logiciel ERP-Paris.,Moyenne
+INC00000255,2020-12-05,Le siège rencontrent une situation de attaque sur le logiciel GPI.,Élevée
+INC00000256,2022-11-24,Le service informatique rencontrent une situation de panne critique sur le logiciel SAB.,Moyenne
+INC00000257,2020-08-16,Le service informatique rencontrent une situation de bug visuel sur le logiciel ERP-Paris.,Faible
+INC00000258,2022-09-05,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel E-BANKING. Cela engendre une perturbation des services métiers.,Très faible
+INC00000259,2022-12-27,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel NOVAFLOW.,Faible
+INC00000260,2022-07-14,Le siège rencontrent une situation de perte de données sur le logiciel CLICKER.,Critique
+INC00000261,2024-04-01,Le siège rencontrent une situation de crash complet sur le logiciel SBS.,Critique
+INC00000262,2022-12-10,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel SAB.,Très faible
+INC00000263,2023-01-03,Le siège rencontrent une situation de latence sur le logiciel E-BANKING. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000264,2020-05-27,Le siège rencontrent une situation de latence sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000265,2023-04-15,Le siège rencontrent une situation de bug visuel sur le logiciel SERVICENOW.,Moyenne
+INC00000266,2022-10-02,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Très faible
+INC00000267,2022-10-12,Plusieurs agences rencontrent une situation de indisponibilité totale sur le logiciel SERVICEITECH.,Critique
+INC00000268,2022-07-19,Le service informatique rencontrent une situation de bug visuel sur le logiciel SBS. Cela engendre une perturbation des services métiers.,Faible
+INC00000269,2022-10-07,Une agence régionale rencontrent une situation de bug visuel sur le logiciel AUTOSYS.,Faible
+INC00000270,2021-08-20,Une agence régionale rencontrent une situation de dysfonctionnement mineur sur le logiciel ERM-X.,Faible
+INC00000271,2023-03-14,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel ERP-Paris.,Élevée
+INC00000272,2024-07-28,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000273,2021-11-02,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel CFT.,Faible
+INC00000274,2023-01-13,Plusieurs agences rencontrent une situation de panne critique sur le logiciel MOBIAPP.,Élevée
+INC00000275,2022-03-25,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Très faible
+INC00000276,2022-09-29,Le siège rencontrent une situation de bug visuel sur le logiciel NOVAFLOW.,Moyenne
+INC00000277,2021-10-14,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000278,2022-11-27,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Faible
+INC00000279,2021-02-13,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000280,2023-09-05,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Faible
+INC00000281,2024-03-06,Tous les utilisateurs rencontrent une situation de perte de données sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Critique
+INC00000282,2020-10-04,Tous les utilisateurs rencontrent une situation de crash complet sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Critique
+INC00000283,2021-09-24,Le service informatique rencontrent une situation de bug visuel sur le logiciel NOVAFLOW.,Faible
+INC00000284,2022-05-12,Une agence régionale rencontrent une situation de erreur mineure sur le logiciel I-CASH.,Très faible
+INC00000285,2022-07-03,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Élevée
+INC00000286,2023-05-23,Plusieurs agences rencontrent une situation de latence sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000287,2021-06-22,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel SBS. Cela engendre une perturbation des services métiers.,Faible
+INC00000288,2024-11-12,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Faible
+INC00000289,2023-02-21,Plusieurs agences rencontrent une situation de panne critique sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Élevée
+INC00000290,2024-09-10,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000291,2023-05-18,Plusieurs agences rencontrent une situation de latence sur le logiciel SBS.,Moyenne
+INC00000292,2022-12-07,Un seul utilisateur rencontrent une situation de latence sur le logiciel SERVICEITECH.,Très faible
+INC00000293,2021-09-21,Le siège rencontrent une situation de attaque sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Critique
+INC00000294,2022-12-07,Un seul utilisateur rencontrent une situation de latence sur le logiciel RAPT.,Faible
+INC00000295,2023-11-14,Tous les utilisateurs rencontrent une situation de latence sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000296,2022-04-12,Une agence régionale rencontrent une situation de bug visuel sur le logiciel E-BANKING.,Faible
+INC00000297,2024-09-27,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel CRM-X.,Faible
+INC00000298,2024-05-30,Le siège rencontrent une situation de intrusion sur le logiciel CRM-X. Cela engendre une perturbation des services métiers.,Élevée
+INC00000299,2020-11-13,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel E-BANKING.,Élevée
+INC00000300,2022-07-06,Une agence régionale rencontrent une situation de panne critique sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000301,2022-06-17,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel AUTOSYS.,Faible
+INC00000302,2023-11-19,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel ERP-Paris.,Critique
+INC00000303,2022-05-21,Tous les utilisateurs rencontrent une situation de perte de données sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Élevée
+INC00000304,2023-12-22,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Faible
+INC00000305,2024-12-08,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel GPI.,Élevée
+INC00000306,2022-02-17,Plusieurs agences rencontrent une situation de intrusion sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Critique
+INC00000307,2023-06-03,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Faible
+INC00000308,2020-11-26,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel SBS.,Faible
+INC00000309,2021-08-12,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Faible
+INC00000310,2021-09-15,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel NOVAFLOW.,Faible
+INC00000311,2022-12-04,Tous les utilisateurs rencontrent une situation de latence sur le logiciel AUTOSYS.,Moyenne
+INC00000312,2022-03-06,Une agence régionale rencontrent une situation de dysfonctionnement mineur sur le logiciel CRM-X.,Faible
+INC00000313,2023-04-21,Plusieurs agences rencontrent une situation de attaque sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Élevée
+INC00000314,2024-09-29,Un seul utilisateur rencontrent une situation de latence sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Faible
+INC00000315,2021-07-21,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Faible
+INC00000316,2021-04-20,Le siège rencontrent une situation de latence sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000317,2021-12-04,Une agence régionale rencontrent une situation de dysfonctionnement mineur sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Très faible
+INC00000318,2021-01-15,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Très faible
+INC00000319,2022-10-16,Le siège rencontrent une situation de latence sur le logiciel I-CASH.,Moyenne
+INC00000320,2022-05-18,Le siège rencontrent une situation de latence sur le logiciel GPI. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000321,2020-08-13,Tous les utilisateurs rencontrent une situation de perte de données sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Critique
+INC00000322,2024-11-09,Une agence régionale rencontrent une situation de panne critique sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000323,2023-08-08,Une agence régionale rencontrent une situation de panne critique sur le logiciel SAB.,Moyenne
+INC00000324,2021-05-27,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Faible
+INC00000325,2020-04-28,Le siège rencontrent une situation de intrusion sur le logiciel SBS. Cela engendre une perturbation des services métiers.,Critique
+INC00000326,2022-02-27,Une agence régionale rencontrent une situation de panne critique sur le logiciel E-BANKING. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000327,2021-03-19,Le service informatique rencontrent une situation de bug visuel sur le logiciel SBS. Cela engendre une perturbation des services métiers.,Faible
+INC00000328,2022-03-24,Une agence régionale rencontrent une situation de bug visuel sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Faible
+INC00000329,2021-03-17,Une agence régionale rencontrent une situation de bug visuel sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Faible
+INC00000330,2024-02-16,Une agence régionale rencontrent une situation de erreur mineure sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Faible
+INC00000331,2021-02-09,Plusieurs agences rencontrent une situation de indisponibilité totale sur le logiciel ERM-X.,Critique
+INC00000332,2023-11-09,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel DOCUBASE.,Critique
+INC00000333,2021-02-28,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Faible
+INC00000334,2024-03-04,Plusieurs agences rencontrent une situation de crash complet sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Élevée
+INC00000335,2023-03-09,Un seul utilisateur rencontrent une situation de latence sur le logiciel MOBIAPP.,Très faible
+INC00000336,2022-10-06,Le service informatique rencontrent une situation de bug visuel sur le logiciel ERM-X.,Faible
+INC00000337,2023-09-21,Le service informatique rencontrent une situation de latence sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Très faible
+INC00000338,2022-02-25,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel GPI. Cela engendre une perturbation des services métiers.,Faible
+INC00000339,2024-07-25,Le siège rencontrent une situation de bug visuel sur le logiciel SERVICENOW.,Moyenne
+INC00000340,2022-10-01,Un seul utilisateur rencontrent une situation de latence sur le logiciel GPI.,Faible
+INC00000341,2023-02-27,Une agence régionale rencontrent une situation de latence sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Faible
+INC00000342,2024-03-14,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel CFT.,Faible
+INC00000343,2023-10-20,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Faible
+INC00000344,2024-07-15,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel SERVICEITECH.,Très faible
+INC00000345,2023-09-17,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Faible
+INC00000346,2024-01-25,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel ERP-Paris.,Très faible
+INC00000347,2022-05-17,Plusieurs agences rencontrent une situation de indisponibilité totale sur le logiciel AUTOSYS.,Critique
+INC00000348,2020-10-30,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Faible
+INC00000349,2021-07-24,Le service informatique rencontrent une situation de latence sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Très faible
+INC00000350,2022-10-08,Le siège rencontrent une situation de panne critique sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Critique
+INC00000351,2020-09-27,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel SAB.,Faible
+INC00000352,2023-11-07,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel SERVICEITECH.,Faible
+INC00000353,2023-08-08,Une agence régionale rencontrent une situation de bug visuel sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Faible
+INC00000354,2020-12-03,Plusieurs agences rencontrent une situation de attaque sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Critique
+INC00000355,2020-11-16,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel I-CASH.,Moyenne
+INC00000356,2021-05-16,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel GPI.,Critique
+INC00000357,2021-06-08,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000358,2022-06-19,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel CLICKER.,Moyenne
+INC00000359,2024-01-22,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel SAB.,Faible
+INC00000360,2023-05-03,Le siège rencontrent une situation de latence sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000361,2024-02-16,Le siège rencontrent une situation de crash complet sur le logiciel ERM-X.,Élevée
+INC00000362,2023-06-30,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel ERM-X.,Moyenne
+INC00000363,2023-07-10,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel CRM-X.,Très faible
+INC00000364,2024-11-10,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Critique
+INC00000365,2021-10-24,Le siège rencontrent une situation de attaque sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Critique
+INC00000366,2021-11-19,Le siège rencontrent une situation de bug visuel sur le logiciel E-BANKING. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000367,2023-06-10,Une agence régionale rencontrent une situation de erreur mineure sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Faible
+INC00000368,2021-11-15,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Très faible
+INC00000369,2024-04-02,Une agence régionale rencontrent une situation de dysfonctionnement mineur sur le logiciel GPI.,Faible
+INC00000370,2022-02-01,Le siège rencontrent une situation de bug visuel sur le logiciel GPI. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000371,2022-07-04,Une agence régionale rencontrent une situation de bug visuel sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Très faible
+INC00000372,2022-05-11,Plusieurs agences rencontrent une situation de crash complet sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Critique
+INC00000373,2022-08-26,Le service informatique rencontrent une situation de bug visuel sur le logiciel ERP-Paris.,Faible
+INC00000374,2024-10-25,Plusieurs agences rencontrent une situation de latence sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000375,2021-05-05,Une agence régionale rencontrent une situation de bug visuel sur le logiciel AUTOSYS.,Faible
+INC00000376,2024-05-22,Tous les utilisateurs rencontrent une situation de intrusion sur le logiciel CFT.,Critique
+INC00000377,2020-07-23,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel NOVAFLOW.,Moyenne
+INC00000378,2022-03-17,Tous les utilisateurs rencontrent une situation de panne critique sur le logiciel CRM-X. Cela engendre une perturbation des services métiers.,Critique
+INC00000379,2021-09-30,Le service informatique rencontrent une situation de panne critique sur le logiciel SERVICEITECH.,Moyenne
+INC00000380,2021-06-18,Plusieurs agences rencontrent une situation de bug visuel sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000381,2020-12-19,Le service informatique rencontrent une situation de latence sur le logiciel ERP-Paris.,Très faible
+INC00000382,2023-01-20,Plusieurs agences rencontrent une situation de latence sur le logiciel RAPT.,Moyenne
+INC00000383,2021-04-19,Le siège rencontrent une situation de bug visuel sur le logiciel I-CASH.,Moyenne
+INC00000384,2020-01-04,Le siège rencontrent une situation de perte de données sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Critique
+INC00000385,2024-03-09,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Élevée
+INC00000386,2023-03-12,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel SBS. Cela engendre une perturbation des services métiers.,Faible
+INC00000387,2020-08-22,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Critique
+INC00000388,2021-01-29,Le service informatique rencontrent une situation de panne critique sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000389,2024-09-29,Plusieurs agences rencontrent une situation de intrusion sur le logiciel DBS.,Critique
+INC00000390,2023-07-09,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel E-BANKING.,Faible
+INC00000391,2021-10-08,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Très faible
+INC00000392,2024-01-04,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000393,2022-06-18,Tous les utilisateurs rencontrent une situation de panne critique sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Élevée
+INC00000394,2022-11-18,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Critique
+INC00000395,2021-06-02,Plusieurs agences rencontrent une situation de crash complet sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Élevée
+INC00000396,2021-03-04,Le service informatique rencontrent une situation de bug visuel sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Faible
+INC00000397,2024-07-31,Plusieurs agences rencontrent une situation de bug visuel sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000398,2022-03-08,Tous les utilisateurs rencontrent une situation de intrusion sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Critique
+INC00000399,2020-09-15,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Faible
+INC00000400,2023-08-04,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel CRM-X. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000401,2023-03-10,Le service informatique rencontrent une situation de latence sur le logiciel I-CASH.,Faible
+INC00000402,2021-08-16,Le siège rencontrent une situation de bug visuel sur le logiciel DBS.,Moyenne
+INC00000403,2022-01-02,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel MOBIAPP.,Faible
+INC00000404,2021-11-16,Le siège rencontrent une situation de perte de données sur le logiciel AUTOSYS.,Critique
+INC00000405,2023-10-07,Le service informatique rencontrent une situation de latence sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Faible
+INC00000406,2021-08-16,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Faible
+INC00000407,2020-05-09,Un seul utilisateur rencontrent une situation de latence sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Très faible
+INC00000408,2020-12-31,Le siège rencontrent une situation de latence sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000409,2020-05-02,Un seul utilisateur rencontrent une situation de latence sur le logiciel ERM-X.,Faible
+INC00000410,2023-08-31,Une agence régionale rencontrent une situation de dysfonctionnement mineur sur le logiciel SBS.,Faible
+INC00000411,2021-03-15,Tous les utilisateurs rencontrent une situation de latence sur le logiciel DBS.,Moyenne
+INC00000412,2023-09-22,Plusieurs agences rencontrent une situation de latence sur le logiciel CLICKER.,Moyenne
+INC00000413,2022-05-16,Le siège rencontrent une situation de latence sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000414,2021-03-14,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Élevée
+INC00000415,2023-11-07,Tous les utilisateurs rencontrent une situation de latence sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000416,2023-03-28,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel SERVICEITECH.,Critique
+INC00000417,2021-03-29,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel CLICKER.,Faible
+INC00000418,2020-03-14,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Critique
+INC00000419,2024-05-23,Le siège rencontrent une situation de intrusion sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Critique
+INC00000420,2020-07-02,Le service informatique rencontrent une situation de latence sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Faible
+INC00000421,2023-10-04,Plusieurs agences rencontrent une situation de bug visuel sur le logiciel RAPT.,Moyenne
+INC00000422,2023-06-23,Une agence régionale rencontrent une situation de bug visuel sur le logiciel SAB.,Très faible
+INC00000423,2023-11-24,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel E-BANKING.,Faible
+INC00000424,2023-11-13,Plusieurs agences rencontrent une situation de bug visuel sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000425,2023-11-02,Plusieurs agences rencontrent une situation de crash complet sur le logiciel DOCUBASE.,Élevée
+INC00000426,2022-04-01,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel MOBIAPP.,Faible
+INC00000427,2021-05-29,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel DBS.,Moyenne
+INC00000428,2021-09-03,Plusieurs agences rencontrent une situation de latence sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000429,2021-12-24,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel CRM-X.,Élevée
+INC00000430,2021-11-07,Plusieurs agences rencontrent une situation de latence sur le logiciel GPI.,Moyenne
+INC00000431,2021-02-25,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel E-BANKING. Cela engendre une perturbation des services métiers.,Faible
+INC00000432,2021-06-14,Une agence régionale rencontrent une situation de panne critique sur le logiciel I-CASH.,Moyenne
+INC00000433,2023-07-24,Le service informatique rencontrent une situation de erreur mineure sur le logiciel ERP-Paris.,Faible
+INC00000434,2021-12-21,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel RAPT.,Faible
+INC00000435,2024-05-15,Une agence régionale rencontrent une situation de bug visuel sur le logiciel CRM-X.,Faible
+INC00000436,2024-08-04,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Faible
+INC00000437,2020-01-28,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Faible
+INC00000438,2020-08-24,Le service informatique rencontrent une situation de latence sur le logiciel SERVICEITECH.,Très faible
+INC00000439,2021-10-22,Tous les utilisateurs rencontrent une situation de panne critique sur le logiciel NOVAFLOW.,Critique
+INC00000440,2023-08-16,Le service informatique rencontrent une situation de bug visuel sur le logiciel SBS.,Faible
+INC00000441,2020-06-15,Le service informatique rencontrent une situation de panne critique sur le logiciel RAPT.,Moyenne
+INC00000442,2021-10-09,Une agence régionale rencontrent une situation de latence sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Faible
+INC00000443,2024-01-29,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel SBS. Cela engendre une perturbation des services métiers.,Faible
+INC00000444,2023-08-13,Le siège rencontrent une situation de panne critique sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Critique
+INC00000445,2022-06-22,Le siège rencontrent une situation de bug visuel sur le logiciel SBS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000446,2020-05-09,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel E-BANKING. Cela engendre une perturbation des services métiers.,Très faible
+INC00000447,2023-08-26,Plusieurs agences rencontrent une situation de latence sur le logiciel SERVICEITECH.,Moyenne
+INC00000448,2024-04-15,Le siège rencontrent une situation de latence sur le logiciel MOBIAPP.,Moyenne
+INC00000449,2022-06-28,Une agence régionale rencontrent une situation de erreur mineure sur le logiciel SERVICENOW.,Faible
+INC00000450,2022-01-05,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel SERVICENOW.,Faible
+INC00000451,2023-01-28,Plusieurs agences rencontrent une situation de perte de données sur le logiciel ERM-X.,Élevée
+INC00000452,2022-05-30,Tous les utilisateurs rencontrent une situation de latence sur le logiciel CFT.,Moyenne
+INC00000453,2024-12-12,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Critique
+INC00000454,2020-08-12,Tous les utilisateurs rencontrent une situation de latence sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000455,2023-10-08,Plusieurs agences rencontrent une situation de bug visuel sur le logiciel E-BANKING. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000456,2020-06-07,Le service informatique rencontrent une situation de panne critique sur le logiciel I-CASH.,Moyenne
+INC00000457,2023-11-23,Le siège rencontrent une situation de panne critique sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Critique
+INC00000458,2021-03-11,Une agence régionale rencontrent une situation de dysfonctionnement mineur sur le logiciel GPI. Cela engendre une perturbation des services métiers.,Faible
+INC00000459,2023-08-17,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Faible
+INC00000460,2023-06-28,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Critique
+INC00000461,2021-08-22,Le siège rencontrent une situation de indisponibilité totale sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Critique
+INC00000462,2022-04-26,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Très faible
+INC00000463,2024-08-11,Le service informatique rencontrent une situation de erreur mineure sur le logiciel CRM-X.,Faible
+INC00000464,2020-09-11,Le siège rencontrent une situation de indisponibilité totale sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Critique
+INC00000465,2023-03-07,Plusieurs agences rencontrent une situation de indisponibilité totale sur le logiciel CRM-X.,Critique
+INC00000466,2021-01-06,Une agence régionale rencontrent une situation de bug visuel sur le logiciel E-BANKING. Cela engendre une perturbation des services métiers.,Faible
+INC00000467,2023-03-07,Le siège rencontrent une situation de crash complet sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Critique
+INC00000468,2024-08-16,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Élevée
+INC00000469,2024-09-19,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel SERVICEITECH.,Critique
+INC00000470,2020-01-26,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel CFT.,Faible
+INC00000471,2021-02-03,Plusieurs agences rencontrent une situation de indisponibilité totale sur le logiciel SERVICEITECH.,Élevée
+INC00000472,2024-11-11,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel DBS.,Faible
+INC00000473,2024-04-01,Le siège rencontrent une situation de intrusion sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Élevée
+INC00000474,2022-08-13,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Faible
+INC00000475,2023-01-30,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Faible
+INC00000476,2024-10-17,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel SERVICEITECH.,Faible
+INC00000477,2023-04-03,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel E-BANKING. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000478,2022-05-12,Plusieurs agences rencontrent une situation de attaque sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Critique
+INC00000479,2020-04-24,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Faible
+INC00000480,2024-05-08,Une agence régionale rencontrent une situation de erreur mineure sur le logiciel DOCUBASE.,Très faible
+INC00000481,2023-11-09,Une agence régionale rencontrent une situation de panne critique sur le logiciel SBS.,Moyenne
+INC00000482,2024-04-02,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel RAPT.,Critique
+INC00000483,2024-02-14,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel CRM-X. Cela engendre une perturbation des services métiers.,Élevée
+INC00000484,2020-10-21,Le siège rencontrent une situation de crash complet sur le logiciel SAB.,Critique
+INC00000485,2021-03-01,Plusieurs agences rencontrent une situation de intrusion sur le logiciel MOBIAPP.,Critique
+INC00000486,2020-10-28,Une agence régionale rencontrent une situation de latence sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Faible
+INC00000487,2021-01-28,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel SERVICEITECH.,Très faible
+INC00000488,2021-04-02,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel I-CASH.,Élevée
+INC00000489,2021-01-09,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000490,2021-09-26,Le service informatique rencontrent une situation de latence sur le logiciel AUTOSYS.,Très faible
+INC00000491,2023-01-15,Plusieurs agences rencontrent une situation de intrusion sur le logiciel GPI.,Critique
+INC00000492,2023-07-05,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Faible
+INC00000493,2021-07-11,Le siège rencontrent une situation de latence sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000494,2022-04-20,Tous les utilisateurs rencontrent une situation de panne critique sur le logiciel SAB.,Critique
+INC00000495,2022-03-26,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel NOVAFLOW.,Très faible
+INC00000496,2022-06-11,Un seul utilisateur rencontrent une situation de latence sur le logiciel CRM-X.,Très faible
+INC00000497,2024-01-09,Plusieurs agences rencontrent une situation de attaque sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Critique
+INC00000498,2021-03-19,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Faible
+INC00000499,2023-02-04,Le siège rencontrent une situation de bug visuel sur le logiciel AUTOSYS.,Moyenne
+INC00000500,2020-12-16,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel SERVICEITECH.,Faible
+INC00000501,2020-08-10,Une agence régionale rencontrent une situation de panne critique sur le logiciel CRM-X. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000502,2023-10-02,Le service informatique rencontrent une situation de panne critique sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000503,2022-10-17,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Faible
+INC00000504,2023-11-18,Tous les utilisateurs rencontrent une situation de perte de données sur le logiciel SAB.,Élevée
+INC00000505,2021-06-05,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel DOCUBASE.,Très faible
+INC00000506,2021-03-15,Une agence régionale rencontrent une situation de latence sur le logiciel CRM-X. Cela engendre une perturbation des services métiers.,Faible
+INC00000507,2021-03-28,Le siège rencontrent une situation de intrusion sur le logiciel E-BANKING. Cela engendre une perturbation des services métiers.,Élevée
+INC00000508,2021-03-27,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel DOCUBASE.,Faible
+INC00000509,2020-10-03,Tous les utilisateurs rencontrent une situation de intrusion sur le logiciel CRM-X. Cela engendre une perturbation des services métiers.,Élevée
+INC00000510,2023-05-23,Le service informatique rencontrent une situation de erreur mineure sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Très faible
+INC00000511,2023-03-30,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel GPI.,Faible
+INC00000512,2023-11-05,Tous les utilisateurs rencontrent une situation de perte de données sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Élevée
+INC00000513,2022-03-31,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Faible
+INC00000514,2020-06-25,Le siège rencontrent une situation de perte de données sur le logiciel NOVAFLOW.,Critique
+INC00000515,2023-07-31,Le siège rencontrent une situation de intrusion sur le logiciel RAPT.,Élevée
+INC00000516,2021-05-19,Le siège rencontrent une situation de latence sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000517,2020-04-17,Tous les utilisateurs rencontrent une situation de crash complet sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Élevée
+INC00000518,2020-09-02,Une agence régionale rencontrent une situation de dysfonctionnement mineur sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Très faible
+INC00000519,2021-01-14,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Faible
+INC00000520,2024-09-20,Tous les utilisateurs rencontrent une situation de intrusion sur le logiciel DOCUBASE.,Élevée
+INC00000521,2024-11-30,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel DBS.,Faible
+INC00000522,2024-10-22,Plusieurs agences rencontrent une situation de crash complet sur le logiciel CFT.,Critique
+INC00000523,2022-05-09,Le service informatique rencontrent une situation de latence sur le logiciel NOVAFLOW.,Faible
+INC00000524,2022-09-15,Le siège rencontrent une situation de latence sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000525,2021-10-29,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Très faible
+INC00000526,2021-07-19,Le siège rencontrent une situation de panne critique sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Critique
+INC00000527,2022-06-08,Tous les utilisateurs rencontrent une situation de latence sur le logiciel SBS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000528,2022-04-18,Tous les utilisateurs rencontrent une situation de latence sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000529,2024-06-14,Le siège rencontrent une situation de panne critique sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Critique
+INC00000530,2024-03-17,Une agence régionale rencontrent une situation de dysfonctionnement mineur sur le logiciel RAPT.,Très faible
+INC00000531,2024-08-29,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel ERM-X.,Faible
+INC00000532,2021-10-04,Le siège rencontrent une situation de intrusion sur le logiciel SERVICENOW.,Élevée
+INC00000533,2022-04-08,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel SERVICENOW.,Élevée
+INC00000534,2024-02-01,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Très faible
+INC00000535,2023-10-21,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Critique
+INC00000536,2020-10-17,Le siège rencontrent une situation de bug visuel sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000537,2020-01-22,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Très faible
+INC00000538,2020-07-30,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000539,2020-05-24,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel DOCUBASE.,Faible
+INC00000540,2023-09-15,Le service informatique rencontrent une situation de latence sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Faible
+INC00000541,2024-08-11,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel ERP-Paris.,Faible
+INC00000542,2022-10-17,Le service informatique rencontrent une situation de latence sur le logiciel DBS.,Faible
+INC00000543,2023-06-04,Plusieurs agences rencontrent une situation de perte de données sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Critique
+INC00000544,2022-11-26,Plusieurs agences rencontrent une situation de crash complet sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Critique
+INC00000545,2024-01-11,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel I-CASH.,Faible
+INC00000546,2020-04-25,Une agence régionale rencontrent une situation de bug visuel sur le logiciel GPI.,Faible
+INC00000547,2020-07-20,Une agence régionale rencontrent une situation de bug visuel sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Faible
+INC00000548,2020-09-16,Plusieurs agences rencontrent une situation de latence sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000549,2024-10-29,Le service informatique rencontrent une situation de latence sur le logiciel SAB.,Très faible
+INC00000550,2020-08-23,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Très faible
+INC00000551,2023-12-15,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Faible
+INC00000552,2022-01-08,Une agence régionale rencontrent une situation de bug visuel sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Faible
+INC00000553,2022-05-16,Une agence régionale rencontrent une situation de erreur mineure sur le logiciel ERM-X.,Très faible
+INC00000554,2021-09-10,Le siège rencontrent une situation de panne critique sur le logiciel SBS.,Élevée
+INC00000555,2023-04-13,Plusieurs agences rencontrent une situation de attaque sur le logiciel CFT.,Élevée
+INC00000556,2021-06-08,Le siège rencontrent une situation de bug visuel sur le logiciel DOCUBASE.,Moyenne
+INC00000557,2020-04-14,Une agence régionale rencontrent une situation de bug visuel sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Faible
+INC00000558,2022-12-26,Une agence régionale rencontrent une situation de panne critique sur le logiciel SAB.,Moyenne
+INC00000559,2023-12-13,Le siège rencontrent une situation de latence sur le logiciel NOVAFLOW.,Moyenne
+INC00000560,2024-01-21,Une agence régionale rencontrent une situation de panne critique sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000561,2020-11-23,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel DBS.,Moyenne
+INC00000562,2020-04-18,Une agence régionale rencontrent une situation de panne critique sur le logiciel CLICKER.,Moyenne
+INC00000563,2022-12-29,Une agence régionale rencontrent une situation de erreur mineure sur le logiciel CLICKER.,Faible
+INC00000564,2022-10-17,Une agence régionale rencontrent une situation de erreur mineure sur le logiciel SERVICENOW.,Très faible
+INC00000565,2020-10-13,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel ERP-Paris.,Élevée
+INC00000566,2022-06-19,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel MOBIAPP.,Faible
+INC00000567,2022-05-13,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel DOCUBASE.,Faible
+INC00000568,2021-08-03,Le siège rencontrent une situation de indisponibilité totale sur le logiciel AUTOSYS.,Élevée
+INC00000569,2021-01-13,Une agence régionale rencontrent une situation de bug visuel sur le logiciel I-CASH.,Très faible
+INC00000570,2022-09-02,Le siège rencontrent une situation de latence sur le logiciel DBS.,Moyenne
+INC00000571,2024-05-17,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel MOBIAPP.,Très faible
+INC00000572,2024-01-18,Tous les utilisateurs rencontrent une situation de latence sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000573,2020-08-01,Le siège rencontrent une situation de latence sur le logiciel SERVICEITECH.,Moyenne
+INC00000574,2022-02-19,Tous les utilisateurs rencontrent une situation de intrusion sur le logiciel ERP-Paris.,Élevée
+INC00000575,2020-05-27,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel AUTOSYS.,Critique
+INC00000576,2021-09-06,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Faible
+INC00000577,2020-10-02,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel I-CASH.,Critique
+INC00000578,2022-12-26,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Faible
+INC00000579,2021-12-25,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel SERVICENOW.,Faible
+INC00000580,2023-03-02,Une agence régionale rencontrent une situation de panne critique sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000581,2024-01-09,Une agence régionale rencontrent une situation de dysfonctionnement mineur sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Faible
+INC00000582,2021-08-07,Le service informatique rencontrent une situation de panne critique sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000583,2023-01-09,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel CRM-X.,Faible
+INC00000584,2020-04-11,Plusieurs agences rencontrent une situation de indisponibilité totale sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Élevée
+INC00000585,2023-03-16,Tous les utilisateurs rencontrent une situation de latence sur le logiciel SAB.,Moyenne
+INC00000586,2023-08-03,Une agence régionale rencontrent une situation de bug visuel sur le logiciel DBS.,Faible
+INC00000587,2022-08-02,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel ERP-Paris.,Critique
+INC00000588,2020-05-19,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Élevée
+INC00000589,2023-08-08,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Critique
+INC00000590,2022-08-10,Le service informatique rencontrent une situation de bug visuel sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Faible
+INC00000591,2021-08-20,Tous les utilisateurs rencontrent une situation de latence sur le logiciel I-CASH.,Moyenne
+INC00000592,2023-05-07,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel SAB.,Élevée
+INC00000593,2022-06-02,Le siège rencontrent une situation de panne critique sur le logiciel RAPT.,Élevée
+INC00000594,2022-10-22,Plusieurs agences rencontrent une situation de crash complet sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Critique
+INC00000595,2021-01-24,Plusieurs agences rencontrent une situation de perte de données sur le logiciel SBS. Cela engendre une perturbation des services métiers.,Critique
+INC00000596,2023-03-12,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Critique
+INC00000597,2023-02-05,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Critique
+INC00000598,2023-08-04,Le siège rencontrent une situation de intrusion sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Critique
+INC00000599,2022-03-18,Le siège rencontrent une situation de intrusion sur le logiciel GPI. Cela engendre une perturbation des services métiers.,Critique
+INC00000600,2023-09-09,Plusieurs agences rencontrent une situation de latence sur le logiciel GPI. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000601,2020-09-22,Le siège rencontrent une situation de panne critique sur le logiciel E-BANKING. Cela engendre une perturbation des services métiers.,Critique
+INC00000602,2021-04-30,Le siège rencontrent une situation de bug visuel sur le logiciel SERVICENOW.,Moyenne
+INC00000603,2024-07-24,Un seul utilisateur rencontrent une situation de latence sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Très faible
+INC00000604,2021-07-15,Plusieurs agences rencontrent une situation de indisponibilité totale sur le logiciel AUTOSYS.,Élevée
+INC00000605,2022-12-18,Une agence régionale rencontrent une situation de dysfonctionnement mineur sur le logiciel SBS.,Très faible
+INC00000606,2023-11-15,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel DOCUBASE.,Élevée
+INC00000607,2024-05-13,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel SAB.,Critique
+INC00000608,2021-07-03,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel ERP-Paris.,Très faible
+INC00000609,2020-02-05,Le siège rencontrent une situation de latence sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000610,2023-02-14,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel I-CASH.,Faible
+INC00000611,2022-12-04,Tous les utilisateurs rencontrent une situation de panne critique sur le logiciel MOBIAPP.,Élevée
+INC00000612,2021-12-06,Le siège rencontrent une situation de intrusion sur le logiciel CLICKER.,Critique
+INC00000613,2024-03-23,Une agence régionale rencontrent une situation de latence sur le logiciel ERM-X.,Faible
+INC00000614,2020-04-19,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel SAB.,Faible
+INC00000615,2023-05-24,Plusieurs agences rencontrent une situation de perte de données sur le logiciel SAB.,Critique
+INC00000616,2022-06-02,Plusieurs agences rencontrent une situation de intrusion sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Élevée
+INC00000617,2023-09-30,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel DOCUBASE.,Moyenne
+INC00000618,2020-12-18,Plusieurs agences rencontrent une situation de intrusion sur le logiciel SERVICENOW.,Élevée
+INC00000619,2024-04-20,Plusieurs agences rencontrent une situation de indisponibilité totale sur le logiciel DOCUBASE.,Élevée
+INC00000620,2021-07-22,Le service informatique rencontrent une situation de erreur mineure sur le logiciel CRM-X.,Très faible
+INC00000621,2022-01-02,Le siège rencontrent une situation de indisponibilité totale sur le logiciel E-BANKING. Cela engendre une perturbation des services métiers.,Élevée
+INC00000622,2022-01-19,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel SBS. Cela engendre une perturbation des services métiers.,Faible
+INC00000623,2021-03-14,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel NOVAFLOW.,Très faible
+INC00000624,2024-10-16,Plusieurs agences rencontrent une situation de intrusion sur le logiciel E-BANKING. Cela engendre une perturbation des services métiers.,Critique
+INC00000625,2024-01-07,Plusieurs agences rencontrent une situation de crash complet sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Critique
+INC00000626,2022-01-23,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel SBS.,Faible
+INC00000627,2021-10-17,Le siège rencontrent une situation de bug visuel sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000628,2020-09-19,Tous les utilisateurs rencontrent une situation de panne critique sur le logiciel NOVAFLOW.,Critique
+INC00000629,2022-03-15,Le siège rencontrent une situation de latence sur le logiciel NOVAFLOW.,Moyenne
+INC00000630,2021-03-02,Le service informatique rencontrent une situation de erreur mineure sur le logiciel SERVICENOW.,Très faible
+INC00000631,2020-01-04,Tous les utilisateurs rencontrent une situation de intrusion sur le logiciel SERVICEITECH.,Critique
+INC00000632,2024-11-11,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Très faible
+INC00000633,2020-02-20,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel GPI. Cela engendre une perturbation des services métiers.,Faible
+INC00000634,2024-05-07,Plusieurs agences rencontrent une situation de bug visuel sur le logiciel ERM-X.,Moyenne
+INC00000635,2024-11-09,Le service informatique rencontrent une situation de erreur mineure sur le logiciel DBS.,Faible
+INC00000636,2021-07-17,Une agence régionale rencontrent une situation de erreur mineure sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Très faible
+INC00000637,2024-12-03,Une agence régionale rencontrent une situation de bug visuel sur le logiciel SBS.,Faible
+INC00000638,2022-05-31,Le siège rencontrent une situation de bug visuel sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000639,2023-07-29,Le service informatique rencontrent une situation de panne critique sur le logiciel GPI. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000640,2021-11-11,Tous les utilisateurs rencontrent une situation de crash complet sur le logiciel RAPT.,Élevée
+INC00000641,2020-12-05,Le service informatique rencontrent une situation de latence sur le logiciel CLICKER.,Faible
+INC00000642,2022-06-13,Une agence régionale rencontrent une situation de erreur mineure sur le logiciel SBS.,Faible
+INC00000643,2022-03-16,Une agence régionale rencontrent une situation de latence sur le logiciel SERVICENOW.,Faible
+INC00000644,2021-06-08,Une agence régionale rencontrent une situation de dysfonctionnement mineur sur le logiciel CLICKER.,Très faible
+INC00000645,2023-12-15,Le siège rencontrent une situation de perte de données sur le logiciel CRM-X. Cela engendre une perturbation des services métiers.,Critique
+INC00000646,2022-02-17,Une agence régionale rencontrent une situation de panne critique sur le logiciel GPI. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000647,2020-12-17,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel NOVAFLOW.,Moyenne
+INC00000648,2023-08-25,Tous les utilisateurs rencontrent une situation de crash complet sur le logiciel E-BANKING.,Élevée
+INC00000649,2022-01-11,Le service informatique rencontrent une situation de erreur mineure sur le logiciel ERP-Paris.,Très faible
+INC00000650,2023-12-31,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel CFT.,Très faible
+INC00000651,2022-08-15,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel CRM-X.,Faible
+INC00000652,2024-03-15,Tous les utilisateurs rencontrent une situation de perte de données sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Élevée
+INC00000653,2021-08-15,Une agence régionale rencontrent une situation de erreur mineure sur le logiciel MOBIAPP.,Faible
+INC00000654,2021-06-28,Le service informatique rencontrent une situation de latence sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Très faible
+INC00000655,2022-12-27,Le service informatique rencontrent une situation de panne critique sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000656,2022-12-10,Le siège rencontrent une situation de panne critique sur le logiciel GPI. Cela engendre une perturbation des services métiers.,Élevée
+INC00000657,2020-11-26,Le siège rencontrent une situation de latence sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000658,2021-04-15,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel GPI. Cela engendre une perturbation des services métiers.,Élevée
+INC00000659,2020-05-03,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000660,2020-03-02,Le siège rencontrent une situation de crash complet sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Élevée
+INC00000661,2022-06-28,Une agence régionale rencontrent une situation de panne critique sur le logiciel NOVAFLOW.,Moyenne
+INC00000662,2024-01-11,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Très faible
+INC00000663,2022-11-20,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel SERVICENOW.,Très faible
+INC00000664,2022-11-01,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel ERP-Paris.,Faible
+INC00000665,2021-05-02,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel SAB.,Élevée
+INC00000666,2024-11-27,Le siège rencontrent une situation de intrusion sur le logiciel RAPT.,Critique
+INC00000667,2024-03-16,Le service informatique rencontrent une situation de latence sur le logiciel RAPT.,Très faible
+INC00000668,2024-10-05,Plusieurs agences rencontrent une situation de perte de données sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Critique
+INC00000669,2021-03-05,Plusieurs agences rencontrent une situation de bug visuel sur le logiciel I-CASH.,Moyenne
+INC00000670,2022-10-30,Une agence régionale rencontrent une situation de panne critique sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000671,2024-11-08,Le service informatique rencontrent une situation de panne critique sur le logiciel SERVICEITECH.,Moyenne
+INC00000672,2021-04-14,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel CFT.,Très faible
+INC00000673,2023-10-20,Une agence régionale rencontrent une situation de bug visuel sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Faible
+INC00000674,2020-08-09,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Faible
+INC00000675,2023-10-17,Plusieurs agences rencontrent une situation de crash complet sur le logiciel SERVICENOW.,Critique
+INC00000676,2023-06-22,Plusieurs agences rencontrent une situation de panne critique sur le logiciel ERM-X.,Critique
+INC00000677,2020-12-06,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel ERP-Paris.,Moyenne
+INC00000678,2020-01-21,Le siège rencontrent une situation de perte de données sur le logiciel NOVAFLOW.,Critique
+INC00000679,2020-05-10,Plusieurs agences rencontrent une situation de crash complet sur le logiciel NOVAFLOW.,Élevée
+INC00000680,2024-08-28,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel RAPT.,Très faible
+INC00000681,2023-01-10,Plusieurs agences rencontrent une situation de latence sur le logiciel NOVAFLOW.,Moyenne
+INC00000682,2021-07-17,Le service informatique rencontrent une situation de panne critique sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000683,2022-04-24,Un seul utilisateur rencontrent une situation de latence sur le logiciel SERVICEITECH.,Faible
+INC00000684,2024-09-13,Une agence régionale rencontrent une situation de panne critique sur le logiciel SERVICENOW.,Moyenne
+INC00000685,2023-01-21,Le service informatique rencontrent une situation de bug visuel sur le logiciel DOCUBASE.,Faible
+INC00000686,2023-04-26,Le service informatique rencontrent une situation de latence sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Faible
+INC00000687,2020-08-27,Tous les utilisateurs rencontrent une situation de latence sur le logiciel SBS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000688,2021-06-26,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Faible
+INC00000689,2024-11-26,Le siège rencontrent une situation de panne critique sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Critique
+INC00000690,2023-05-04,Un seul utilisateur rencontrent une situation de latence sur le logiciel CRM-X.,Très faible
+INC00000691,2022-06-18,Tous les utilisateurs rencontrent une situation de intrusion sur le logiciel DBS.,Critique
+INC00000692,2024-11-18,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Faible
+INC00000693,2020-04-30,Le siège rencontrent une situation de panne critique sur le logiciel DOCUBASE.,Élevée
+INC00000694,2020-08-24,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Faible
+INC00000695,2024-09-28,Plusieurs agences rencontrent une situation de attaque sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Critique
+INC00000696,2022-06-16,Le siège rencontrent une situation de crash complet sur le logiciel CLICKER.,Élevée
+INC00000697,2020-08-04,Plusieurs agences rencontrent une situation de panne critique sur le logiciel CLICKER.,Critique
+INC00000698,2023-10-18,Plusieurs agences rencontrent une situation de bug visuel sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000699,2024-08-12,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel ERM-X.,Faible
+INC00000700,2021-05-08,Une agence régionale rencontrent une situation de bug visuel sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Très faible
+INC00000701,2023-03-30,Le siège rencontrent une situation de bug visuel sur le logiciel ERM-X.,Moyenne
+INC00000702,2024-11-13,Le siège rencontrent une situation de attaque sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Critique
+INC00000703,2024-07-12,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel NOVAFLOW.,Critique
+INC00000704,2024-01-12,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel DBS.,Faible
+INC00000705,2024-10-21,Le siège rencontrent une situation de bug visuel sur le logiciel E-BANKING.,Moyenne
+INC00000706,2023-08-04,Le siège rencontrent une situation de crash complet sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Critique
+INC00000707,2022-05-25,Le siège rencontrent une situation de bug visuel sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000708,2022-04-15,Le service informatique rencontrent une situation de erreur mineure sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Faible
+INC00000709,2022-08-14,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel SERVICEITECH.,Très faible
+INC00000710,2021-01-17,Une agence régionale rencontrent une situation de latence sur le logiciel SERVICEITECH.,Faible
+INC00000711,2022-01-28,Le siège rencontrent une situation de bug visuel sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000712,2022-03-19,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel CLICKER.,Très faible
+INC00000713,2021-11-16,Tous les utilisateurs rencontrent une situation de panne critique sur le logiciel RAPT.,Critique
+INC00000714,2020-09-14,Plusieurs agences rencontrent une situation de latence sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000715,2022-06-24,Le siège rencontrent une situation de attaque sur le logiciel AUTOSYS.,Élevée
+INC00000716,2024-12-02,Plusieurs agences rencontrent une situation de crash complet sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Critique
+INC00000717,2024-08-23,Plusieurs agences rencontrent une situation de panne critique sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Élevée
+INC00000718,2023-04-29,Plusieurs agences rencontrent une situation de indisponibilité totale sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Élevée
+INC00000719,2020-02-06,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Faible
+INC00000720,2022-10-09,Une agence régionale rencontrent une situation de bug visuel sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Faible
+INC00000721,2020-08-16,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Faible
+INC00000722,2023-06-22,Plusieurs agences rencontrent une situation de crash complet sur le logiciel GPI.,Élevée
+INC00000723,2021-02-01,Le service informatique rencontrent une situation de latence sur le logiciel NOVAFLOW.,Faible
+INC00000724,2022-10-19,Plusieurs agences rencontrent une situation de indisponibilité totale sur le logiciel SAB.,Critique
+INC00000725,2020-10-19,Le siège rencontrent une situation de intrusion sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Critique
+INC00000726,2022-12-13,Plusieurs agences rencontrent une situation de intrusion sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Critique
+INC00000727,2022-04-08,Tous les utilisateurs rencontrent une situation de crash complet sur le logiciel CLICKER.,Élevée
+INC00000728,2024-08-19,Tous les utilisateurs rencontrent une situation de perte de données sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Élevée
+INC00000729,2022-12-05,Une agence régionale rencontrent une situation de erreur mineure sur le logiciel AUTOSYS.,Faible
+INC00000730,2024-09-17,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Très faible
+INC00000731,2024-09-08,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Très faible
+INC00000732,2021-07-12,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel E-BANKING.,Très faible
+INC00000733,2022-08-29,Une agence régionale rencontrent une situation de dysfonctionnement mineur sur le logiciel GPI. Cela engendre une perturbation des services métiers.,Faible
+INC00000734,2024-08-16,Le service informatique rencontrent une situation de bug visuel sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Faible
+INC00000735,2022-12-20,Une agence régionale rencontrent une situation de latence sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Faible
+INC00000736,2024-02-17,Le siège rencontrent une situation de bug visuel sur le logiciel SAB.,Moyenne
+INC00000737,2021-08-01,Le service informatique rencontrent une situation de bug visuel sur le logiciel GPI.,Faible
+INC00000738,2020-11-28,Tous les utilisateurs rencontrent une situation de perte de données sur le logiciel ERP-Paris.,Critique
+INC00000739,2022-08-31,Le service informatique rencontrent une situation de erreur mineure sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Faible
+INC00000740,2024-10-15,Plusieurs agences rencontrent une situation de intrusion sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Élevée
+INC00000741,2020-05-20,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Faible
+INC00000742,2020-04-04,Le service informatique rencontrent une situation de bug visuel sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Faible
+INC00000743,2024-12-03,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel MOBIAPP.,Faible
+INC00000744,2023-09-13,Le siège rencontrent une situation de perte de données sur le logiciel RAPT.,Critique
+INC00000745,2023-10-23,Plusieurs agences rencontrent une situation de bug visuel sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000746,2023-09-22,Le service informatique rencontrent une situation de bug visuel sur le logiciel SERVICEITECH.,Faible
+INC00000747,2024-01-21,Plusieurs agences rencontrent une situation de attaque sur le logiciel CRM-X. Cela engendre une perturbation des services métiers.,Critique
+INC00000748,2023-11-12,Une agence régionale rencontrent une situation de dysfonctionnement mineur sur le logiciel DBS.,Faible
+INC00000749,2023-09-17,Plusieurs agences rencontrent une situation de latence sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000750,2023-01-06,Le siège rencontrent une situation de bug visuel sur le logiciel DBS.,Moyenne
+INC00000751,2021-07-03,Le siège rencontrent une situation de bug visuel sur le logiciel E-BANKING.,Moyenne
+INC00000752,2020-02-06,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel RAPT.,Faible
+INC00000753,2020-11-13,Tous les utilisateurs rencontrent une situation de crash complet sur le logiciel GPI.,Critique
+INC00000754,2021-05-31,Un seul utilisateur rencontrent une situation de latence sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Très faible
+INC00000755,2024-12-20,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel SAB.,Moyenne
+INC00000756,2023-12-21,Le siège rencontrent une situation de panne critique sur le logiciel I-CASH.,Critique
+INC00000757,2021-09-19,Le siège rencontrent une situation de indisponibilité totale sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Élevée
+INC00000758,2021-08-20,Le service informatique rencontrent une situation de panne critique sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000759,2024-04-17,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000760,2020-09-24,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Faible
+INC00000761,2021-03-11,Plusieurs agences rencontrent une situation de latence sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000762,2021-07-13,Tous les utilisateurs rencontrent une situation de crash complet sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Critique
+INC00000763,2023-11-25,Une agence régionale rencontrent une situation de dysfonctionnement mineur sur le logiciel AUTOSYS.,Faible
+INC00000764,2024-11-07,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel SERVICEITECH.,Très faible
+INC00000765,2021-03-29,Plusieurs agences rencontrent une situation de panne critique sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Critique
+INC00000766,2022-11-07,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000767,2020-07-06,Le siège rencontrent une situation de latence sur le logiciel AUTOSYS.,Moyenne
+INC00000768,2024-08-28,Plusieurs agences rencontrent une situation de intrusion sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Critique
+INC00000769,2023-11-16,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel SBS.,Critique
+INC00000770,2021-08-13,Le service informatique rencontrent une situation de erreur mineure sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Faible
+INC00000771,2020-07-11,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel DOCUBASE.,Faible
+INC00000772,2022-05-13,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Faible
+INC00000773,2024-01-19,Plusieurs agences rencontrent une situation de panne critique sur le logiciel AUTOSYS.,Élevée
+INC00000774,2020-09-25,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel SERVICENOW.,Faible
+INC00000775,2021-02-02,Plusieurs agences rencontrent une situation de panne critique sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Critique
+INC00000776,2022-09-18,Tous les utilisateurs rencontrent une situation de latence sur le logiciel ERP-Paris.,Moyenne
+INC00000777,2022-09-04,Une agence régionale rencontrent une situation de panne critique sur le logiciel DBS.,Moyenne
+INC00000778,2023-04-02,Le siège rencontrent une situation de bug visuel sur le logiciel ERP-Paris.,Moyenne
+INC00000779,2024-05-07,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel CRM-X.,Très faible
+INC00000780,2022-09-25,Le service informatique rencontrent une situation de erreur mineure sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Faible
+INC00000781,2022-04-01,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel CLICKER.,Faible
+INC00000782,2023-03-26,Tous les utilisateurs rencontrent une situation de latence sur le logiciel AUTOSYS.,Moyenne
+INC00000783,2020-10-05,Tous les utilisateurs rencontrent une situation de crash complet sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Élevée
+INC00000784,2023-04-08,Un seul utilisateur rencontrent une situation de latence sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Faible
+INC00000785,2021-03-12,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Très faible
+INC00000786,2024-12-13,Plusieurs agences rencontrent une situation de crash complet sur le logiciel CLICKER.,Élevée
+INC00000787,2023-05-02,Plusieurs agences rencontrent une situation de bug visuel sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000788,2021-01-07,Tous les utilisateurs rencontrent une situation de intrusion sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Critique
+INC00000789,2022-01-24,Plusieurs agences rencontrent une situation de panne critique sur le logiciel ERP-Paris.,Critique
+INC00000790,2020-11-18,Plusieurs agences rencontrent une situation de indisponibilité totale sur le logiciel DOCUBASE.,Élevée
+INC00000791,2024-04-16,Le siège rencontrent une situation de panne critique sur le logiciel E-BANKING.,Critique
+INC00000792,2023-04-25,Le siège rencontrent une situation de perte de données sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Élevée
+INC00000793,2023-04-05,Le siège rencontrent une situation de indisponibilité totale sur le logiciel SERVICENOW. Cela engendre une perturbation des services métiers.,Critique
+INC00000794,2023-01-13,Le siège rencontrent une situation de attaque sur le logiciel GPI.,Élevée
+INC00000795,2022-01-26,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel DOCUBASE.,Moyenne
+INC00000796,2020-07-12,Le siège rencontrent une situation de intrusion sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Critique
+INC00000797,2022-08-31,Plusieurs agences rencontrent une situation de panne critique sur le logiciel AUTOSYS.,Critique
+INC00000798,2021-03-13,Plusieurs agences rencontrent une situation de attaque sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Élevée
+INC00000799,2021-06-30,Une agence régionale rencontrent une situation de erreur mineure sur le logiciel ERP-Paris.,Faible
+INC00000800,2024-12-12,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Très faible
+INC00000801,2024-08-18,Plusieurs agences rencontrent une situation de intrusion sur le logiciel ERM-X.,Critique
+INC00000802,2021-11-13,Tous les utilisateurs rencontrent une situation de perte de données sur le logiciel MOBIAPP.,Critique
+INC00000803,2020-06-19,Le service informatique rencontrent une situation de erreur mineure sur le logiciel AUTOSYS.,Très faible
+INC00000804,2022-09-19,Plusieurs agences rencontrent une situation de indisponibilité totale sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Critique
+INC00000805,2023-06-23,Plusieurs agences rencontrent une situation de perte de données sur le logiciel SBS. Cela engendre une perturbation des services métiers.,Critique
+INC00000806,2023-10-10,Une agence régionale rencontrent une situation de latence sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Faible
+INC00000807,2023-11-06,Une agence régionale rencontrent une situation de dysfonctionnement mineur sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Faible
+INC00000808,2023-06-05,Plusieurs agences rencontrent une situation de attaque sur le logiciel DBS.,Critique
+INC00000809,2021-06-03,Un seul utilisateur rencontrent une situation de latence sur le logiciel I-CASH.,Très faible
+INC00000810,2023-09-20,Tous les utilisateurs rencontrent une situation de intrusion sur le logiciel GPI.,Élevée
+INC00000811,2022-04-18,Tous les utilisateurs rencontrent une situation de crash complet sur le logiciel SBS. Cela engendre une perturbation des services métiers.,Élevée
+INC00000812,2023-02-15,Le siège rencontrent une situation de latence sur le logiciel RAPT.,Moyenne
+INC00000813,2021-03-06,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Très faible
+INC00000814,2023-05-16,Plusieurs agences rencontrent une situation de panne critique sur le logiciel SERVICEITECH.,Critique
+INC00000815,2022-12-02,Plusieurs agences rencontrent une situation de perte de données sur le logiciel SAB.,Élevée
+INC00000816,2022-01-07,Le service informatique rencontrent une situation de bug visuel sur le logiciel ERM-X.,Faible
+INC00000817,2024-03-11,Plusieurs agences rencontrent une situation de perte de données sur le logiciel CFT.,Élevée
+INC00000818,2023-12-09,Une agence régionale rencontrent une situation de panne critique sur le logiciel NOVAFLOW.,Moyenne
+INC00000819,2024-08-18,Le siège rencontrent une situation de indisponibilité totale sur le logiciel NOVAFLOW.,Critique
+INC00000820,2023-02-10,Une agence régionale rencontrent une situation de bug visuel sur le logiciel SERVICEITECH.,Faible
+INC00000821,2023-08-13,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Faible
+INC00000822,2022-04-19,Le siège rencontrent une situation de perte de données sur le logiciel RAPT.,Critique
+INC00000823,2024-05-29,Un seul utilisateur rencontrent une situation de latence sur le logiciel ERM-X.,Très faible
+INC00000824,2021-01-28,Plusieurs agences rencontrent une situation de intrusion sur le logiciel AUTOSYS.,Critique
+INC00000825,2020-11-30,Plusieurs agences rencontrent une situation de attaque sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Critique
+INC00000826,2020-07-05,Plusieurs agences rencontrent une situation de crash complet sur le logiciel DBS.,Critique
+INC00000827,2021-12-09,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel DBS.,Critique
+INC00000828,2021-01-27,Tous les utilisateurs rencontrent une situation de perte de données sur le logiciel ERM-X.,Critique
+INC00000829,2021-06-27,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Très faible
+INC00000830,2023-11-17,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel DOCUBASE.,Faible
+INC00000831,2023-04-10,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Élevée
+INC00000832,2020-12-01,Le siège rencontrent une situation de latence sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000833,2021-12-20,Une agence régionale rencontrent une situation de dysfonctionnement mineur sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Très faible
+INC00000834,2023-04-07,Le siège rencontrent une situation de intrusion sur le logiciel AUTOSYS.,Élevée
+INC00000835,2021-12-29,Le service informatique rencontrent une situation de erreur mineure sur le logiciel MOBIAPP.,Faible
+INC00000836,2020-09-28,Le siège rencontrent une situation de attaque sur le logiciel ERM-X.,Critique
+INC00000837,2024-02-16,Le service informatique rencontrent une situation de bug visuel sur le logiciel NOVAFLOW.,Faible
+INC00000838,2022-05-20,Plusieurs agences rencontrent une situation de panne critique sur le logiciel SAB.,Critique
+INC00000839,2021-09-28,Tous les utilisateurs rencontrent une situation de intrusion sur le logiciel CRM-X.,Critique
+INC00000840,2022-11-14,Plusieurs agences rencontrent une situation de perte de données sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Critique
+INC00000841,2021-09-17,Le siège rencontrent une situation de crash complet sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Critique
+INC00000842,2024-05-07,Tous les utilisateurs rencontrent une situation de intrusion sur le logiciel E-BANKING. Cela engendre une perturbation des services métiers.,Critique
+INC00000843,2021-02-01,Plusieurs agences rencontrent une situation de crash complet sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Critique
+INC00000844,2021-11-10,Le siège rencontrent une situation de panne critique sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Critique
+INC00000845,2021-12-08,Plusieurs agences rencontrent une situation de attaque sur le logiciel RAPT.,Critique
+INC00000846,2024-08-12,Plusieurs agences rencontrent une situation de latence sur le logiciel E-BANKING.,Moyenne
+INC00000847,2024-01-03,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Faible
+INC00000848,2020-11-08,Plusieurs agences rencontrent une situation de perte de données sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Critique
+INC00000849,2022-03-06,Plusieurs agences rencontrent une situation de panne critique sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Critique
+INC00000850,2023-08-28,Le siège rencontrent une situation de perte de données sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Critique
+INC00000851,2021-01-05,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel SBS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000852,2022-08-21,Le siège rencontrent une situation de crash complet sur le logiciel SERVICEITECH.,Élevée
+INC00000853,2023-09-15,Une agence régionale rencontrent une situation de latence sur le logiciel AUTOSYS.,Faible
+INC00000854,2021-06-08,Le siège rencontrent une situation de indisponibilité totale sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Élevée
+INC00000855,2020-03-02,Le siège rencontrent une situation de intrusion sur le logiciel DBS.,Critique
+INC00000856,2020-04-16,Plusieurs agences rencontrent une situation de attaque sur le logiciel SERVICENOW.,Critique
+INC00000857,2024-05-31,Un seul utilisateur rencontrent une situation de latence sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Très faible
+INC00000858,2023-07-06,Plusieurs agences rencontrent une situation de panne critique sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Élevée
+INC00000859,2022-05-11,Le siège rencontrent une situation de crash complet sur le logiciel CRM-X.,Élevée
+INC00000860,2024-08-19,Le siège rencontrent une situation de bug visuel sur le logiciel SAB.,Moyenne
+INC00000861,2022-07-29,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Faible
+INC00000862,2022-07-09,Une agence régionale rencontrent une situation de panne critique sur le logiciel CRM-X. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000863,2021-09-10,Tous les utilisateurs rencontrent une situation de latence sur le logiciel E-BANKING.,Moyenne
+INC00000864,2021-10-23,Tous les utilisateurs rencontrent une situation de indisponibilité totale sur le logiciel CLICKER.,Élevée
+INC00000865,2020-07-22,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel E-BANKING.,Très faible
+INC00000866,2024-12-07,Tous les utilisateurs rencontrent une situation de perte de données sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Élevée
+INC00000867,2020-05-19,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel DOCUBASE.,Très faible
+INC00000868,2023-12-23,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Très faible
+INC00000869,2021-12-18,Tous les utilisateurs rencontrent une situation de perte de données sur le logiciel CRM-X.,Critique
+INC00000870,2020-07-08,Le siège rencontrent une situation de latence sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000871,2021-02-26,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel E-BANKING.,Très faible
+INC00000872,2022-12-09,Plusieurs agences rencontrent une situation de panne critique sur le logiciel E-BANKING.,Critique
+INC00000873,2023-08-02,Le siège rencontrent une situation de panne critique sur le logiciel MOBIAPP.,Élevée
+INC00000874,2022-12-02,Plusieurs agences rencontrent une situation de panne critique sur le logiciel CFT.,Critique
+INC00000875,2023-02-03,Le siège rencontrent une situation de latence sur le logiciel E-BANKING.,Moyenne
+INC00000876,2020-03-24,Le service informatique rencontrent une situation de difficultés de connexion sur le logiciel I-CASH.,Très faible
+INC00000877,2022-05-14,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel SERVICENOW.,Moyenne
+INC00000878,2023-06-20,Tous les utilisateurs rencontrent une situation de perte de données sur le logiciel DOCUBASE.,Élevée
+INC00000879,2022-03-15,Le siège rencontrent une situation de panne critique sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Critique
+INC00000880,2020-03-01,Le siège rencontrent une situation de bug visuel sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000881,2021-08-14,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel AUTOSYS.,Moyenne
+INC00000882,2021-11-06,Plusieurs agences rencontrent une situation de intrusion sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Élevée
+INC00000883,2021-06-25,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel RAPT.,Faible
+INC00000884,2023-08-06,Le service informatique rencontrent une situation de panne critique sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000885,2021-06-16,Une agence régionale rencontrent une situation de erreur mineure sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Faible
+INC00000886,2020-12-07,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel DBS.,Très faible
+INC00000887,2020-04-04,Plusieurs agences rencontrent une situation de panne critique sur le logiciel ERP-Paris.,Élevée
+INC00000888,2022-10-10,Tous les utilisateurs rencontrent une situation de latence sur le logiciel SBS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000889,2023-07-06,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel NOVAFLOW.,Faible
+INC00000890,2021-05-06,Une agence régionale rencontrent une situation de panne critique sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000891,2020-06-07,Une agence régionale rencontrent une situation de difficultés de connexion sur le logiciel E-BANKING.,Faible
+INC00000892,2023-04-11,Le service informatique rencontrent une situation de latence sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Faible
+INC00000893,2021-02-27,Le siège rencontrent une situation de intrusion sur le logiciel E-BANKING. Cela engendre une perturbation des services métiers.,Critique
+INC00000894,2023-07-17,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel CLICKER.,Faible
+INC00000895,2022-03-03,Plusieurs agences rencontrent une situation de intrusion sur le logiciel SBS. Cela engendre une perturbation des services métiers.,Élevée
+INC00000896,2023-11-15,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Très faible
+INC00000897,2021-04-07,Plusieurs agences rencontrent une situation de perte de données sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Critique
+INC00000898,2021-11-20,Une agence régionale rencontrent une situation de panne critique sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000899,2023-02-15,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel SBS.,Moyenne
+INC00000900,2021-10-06,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel CLICKER.,Très faible
+INC00000901,2022-05-23,Un seul utilisateur rencontrent une situation de latence sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Faible
+INC00000902,2020-01-17,Plusieurs agences rencontrent une situation de indisponibilité totale sur le logiciel CRM-X. Cela engendre une perturbation des services métiers.,Critique
+INC00000903,2024-05-27,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Faible
+INC00000904,2021-08-12,Le siège rencontrent une situation de bug visuel sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000905,2023-10-19,Le service informatique rencontrent une situation de bug visuel sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Faible
+INC00000906,2023-08-25,Un seul utilisateur rencontrent une situation de latence sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Faible
+INC00000907,2024-08-15,Le siège rencontrent une situation de panne critique sur le logiciel CFT.,Élevée
+INC00000908,2024-06-19,Le service informatique rencontrent une situation de erreur mineure sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Très faible
+INC00000909,2020-08-29,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Élevée
+INC00000910,2024-08-11,Le service informatique rencontrent une situation de panne critique sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000911,2024-03-23,Une agence régionale rencontrent une situation de latence sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Faible
+INC00000912,2024-11-13,Le siège rencontrent une situation de latence sur le logiciel SBS.,Moyenne
+INC00000913,2021-11-01,Une agence régionale rencontrent une situation de bug visuel sur le logiciel RAPT.,Faible
+INC00000914,2020-09-05,Le siège rencontrent une situation de bug visuel sur le logiciel SERVICENOW.,Moyenne
+INC00000915,2024-11-18,Le siège rencontrent une situation de perte de données sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Critique
+INC00000916,2020-08-22,Une agence régionale rencontrent une situation de dysfonctionnement mineur sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Très faible
+INC00000917,2023-01-17,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000918,2023-10-17,Plusieurs agences rencontrent une situation de indisponibilité totale sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Critique
+INC00000919,2020-03-06,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel CRM-X. Cela engendre une perturbation des services métiers.,Faible
+INC00000920,2020-06-29,Le service informatique rencontrent une situation de panne critique sur le logiciel CLICKER.,Moyenne
+INC00000921,2020-05-15,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Faible
+INC00000922,2023-03-08,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel DOCUBASE. Cela engendre une perturbation des services métiers.,Faible
+INC00000923,2021-03-20,Plusieurs agences rencontrent une situation de crash complet sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Critique
+INC00000924,2020-08-06,Tous les utilisateurs rencontrent une situation de latence sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000925,2022-09-06,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel GPI.,Très faible
+INC00000926,2022-05-01,Plusieurs agences rencontrent une situation de indisponibilité totale sur le logiciel GPI.,Élevée
+INC00000927,2024-01-18,Le siège rencontrent une situation de attaque sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Élevée
+INC00000928,2020-07-22,Plusieurs agences rencontrent une situation de latence sur le logiciel SERVICEITECH.,Moyenne
+INC00000929,2020-09-09,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel SAB.,Faible
+INC00000930,2021-11-18,Une agence régionale rencontrent une situation de panne critique sur le logiciel E-BANKING.,Moyenne
+INC00000931,2024-03-16,Une agence régionale rencontrent une situation de panne critique sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000932,2024-04-23,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel ERP-Paris.,Très faible
+INC00000933,2021-10-21,Un seul utilisateur rencontrent une situation de erreur mineure sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Faible
+INC00000934,2021-01-25,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Faible
+INC00000935,2024-12-23,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000936,2021-06-26,Tous les utilisateurs rencontrent une situation de perte de données sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Critique
+INC00000937,2024-06-11,Le service informatique rencontrent une situation de latence sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Très faible
+INC00000938,2023-10-15,Un seul utilisateur rencontrent une situation de latence sur le logiciel MOBIAPP.,Très faible
+INC00000939,2021-03-27,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000940,2024-06-20,Le service informatique rencontrent une situation de bug visuel sur le logiciel MOBIAPP.,Faible
+INC00000941,2021-01-04,Le service informatique rencontrent une situation de bug visuel sur le logiciel I-CASH.,Faible
+INC00000942,2024-02-14,Plusieurs agences rencontrent une situation de panne critique sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Critique
+INC00000943,2024-06-26,Tous les utilisateurs rencontrent une situation de attaque sur le logiciel SBS. Cela engendre une perturbation des services métiers.,Critique
+INC00000944,2023-10-03,Une agence régionale rencontrent une situation de erreur mineure sur le logiciel E-BANKING.,Très faible
+INC00000945,2021-08-29,Le service informatique rencontrent une situation de bug visuel sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Très faible
+INC00000946,2021-05-07,Le siège rencontrent une situation de intrusion sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Critique
+INC00000947,2024-03-05,Un seul utilisateur rencontrent une situation de latence sur le logiciel E-BANKING.,Faible
+INC00000948,2021-01-10,Le service informatique rencontrent une situation de erreur mineure sur le logiciel ERP-Paris.,Faible
+INC00000949,2020-12-09,Plusieurs agences rencontrent une situation de attaque sur le logiciel SAB. Cela engendre une perturbation des services métiers.,Critique
+INC00000950,2023-06-01,Tous les utilisateurs rencontrent une situation de intrusion sur le logiciel E-BANKING. Cela engendre une perturbation des services métiers.,Élevée
+INC00000951,2023-02-02,Un seul utilisateur rencontrent une situation de latence sur le logiciel CRM-X. Cela engendre une perturbation des services métiers.,Faible
+INC00000952,2021-10-21,Le siège rencontrent une situation de perte de données sur le logiciel CLICKER.,Critique
+INC00000953,2022-05-23,Plusieurs agences rencontrent une situation de indisponibilité totale sur le logiciel ERP-Paris.,Critique
+INC00000954,2021-02-17,Une agence régionale rencontrent une situation de erreur mineure sur le logiciel DBS.,Très faible
+INC00000955,2023-07-22,Le service informatique rencontrent une situation de erreur mineure sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Faible
+INC00000956,2020-06-27,Plusieurs agences rencontrent une situation de latence sur le logiciel CRM-X. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000957,2022-09-24,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Très faible
+INC00000958,2024-04-08,Un seul utilisateur rencontrent une situation de difficultés de connexion sur le logiciel SERVICEITECH.,Faible
+INC00000959,2023-02-18,Une agence régionale rencontrent une situation de latence sur le logiciel CRM-X. Cela engendre une perturbation des services métiers.,Faible
+INC00000960,2021-09-06,Le siège rencontrent une situation de panne critique sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Critique
+INC00000961,2023-12-07,Le service informatique rencontrent une situation de bug visuel sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Faible
+INC00000962,2020-02-19,Le siège rencontrent une situation de intrusion sur le logiciel DBS.,Critique
+INC00000963,2020-05-12,Le siège rencontrent une situation de crash complet sur le logiciel CRM-X.,Critique
+INC00000964,2024-09-20,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel NOVAFLOW.,Faible
+INC00000965,2022-09-04,Une agence régionale rencontrent une situation de erreur mineure sur le logiciel E-BANKING.,Faible
+INC00000966,2023-02-04,Une agence régionale rencontrent une situation de latence sur le logiciel DOCUBASE.,Faible
+INC00000967,2023-01-08,Tous les utilisateurs rencontrent une situation de panne critique sur le logiciel AUTOSYS.,Critique
+INC00000968,2020-09-24,Plusieurs agences rencontrent une situation de crash complet sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Critique
+INC00000969,2020-08-20,Tous les utilisateurs rencontrent une situation de panne critique sur le logiciel NOVAFLOW.,Critique
+INC00000970,2023-12-02,Plusieurs agences rencontrent une situation de indisponibilité totale sur le logiciel ERM-X. Cela engendre une perturbation des services métiers.,Critique
+INC00000971,2023-12-06,Plusieurs agences rencontrent une situation de intrusion sur le logiciel SERVICENOW.,Élevée
+INC00000972,2022-10-03,Le siège rencontrent une situation de attaque sur le logiciel MOBIAPP.,Critique
+INC00000973,2021-03-17,Une agence régionale rencontrent une situation de panne critique sur le logiciel SAB.,Moyenne
+INC00000974,2020-10-04,Le service informatique rencontrent une situation de erreur mineure sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Faible
+INC00000975,2021-07-15,Un seul utilisateur rencontrent une situation de latence sur le logiciel MOBIAPP. Cela engendre une perturbation des services métiers.,Très faible
+INC00000976,2020-05-05,Le siège rencontrent une situation de indisponibilité totale sur le logiciel DOCUBASE.,Critique
+INC00000977,2021-08-13,Plusieurs agences rencontrent une situation de intrusion sur le logiciel CRM-X.,Élevée
+INC00000978,2021-06-15,Un seul utilisateur rencontrent une situation de dysfonctionnement mineur sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Faible
+INC00000979,2023-06-15,Plusieurs agences rencontrent une situation de indisponibilité totale sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Critique
+INC00000980,2023-07-04,Tous les utilisateurs rencontrent une situation de bug visuel sur le logiciel RAPT. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000981,2023-04-23,Le siège rencontrent une situation de perte de données sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Élevée
+INC00000982,2022-02-03,Plusieurs agences rencontrent une situation de perte de données sur le logiciel GPI. Cela engendre une perturbation des services métiers.,Critique
+INC00000983,2020-12-21,Le service informatique rencontrent une situation de dysfonctionnement mineur sur le logiciel I-CASH.,Faible
+INC00000984,2022-04-06,Tous les utilisateurs rencontrent une situation de panne critique sur le logiciel CFT. Cela engendre une perturbation des services métiers.,Critique
+INC00000985,2022-01-01,Plusieurs agences rencontrent une situation de indisponibilité totale sur le logiciel E-BANKING.,Critique
+INC00000986,2021-01-19,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel AUTOSYS. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000987,2021-08-23,Un seul utilisateur rencontrent une situation de bug visuel sur le logiciel ERP-Paris. Cela engendre une perturbation des services métiers.,Faible
+INC00000988,2022-08-26,Tous les utilisateurs rencontrent une situation de panne critique sur le logiciel MOBIAPP.,Critique
+INC00000989,2022-10-29,Le service informatique rencontrent une situation de erreur mineure sur le logiciel DBS. Cela engendre une perturbation des services métiers.,Très faible
+INC00000990,2021-11-30,Plusieurs agences rencontrent une situation de intrusion sur le logiciel ERP-Paris.,Critique
+INC00000991,2021-03-27,Une agence régionale rencontrent une situation de panne critique sur le logiciel I-CASH. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000992,2020-07-03,Le service informatique rencontrent une situation de erreur mineure sur le logiciel AUTOSYS.,Faible
+INC00000993,2023-02-28,Le siège rencontrent une situation de panne critique sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Critique
+INC00000994,2020-04-18,Une agence régionale rencontrent une situation de panne critique sur le logiciel NOVAFLOW. Cela engendre une perturbation des services métiers.,Moyenne
+INC00000995,2021-07-06,Une agence régionale rencontrent une situation de erreur mineure sur le logiciel SERVICEITECH. Cela engendre une perturbation des services métiers.,Faible
+INC00000996,2021-01-29,Le siège rencontrent une situation de latence sur le logiciel CLICKER.,Moyenne
+INC00000997,2020-07-15,Une agence régionale rencontrent une situation de latence sur le logiciel CFT.,Faible
+INC00000998,2021-02-16,Un seul utilisateur rencontrent une situation de panne critique sur le logiciel GPI.,Moyenne
+INC00000999,2022-01-14,Tous les utilisateurs rencontrent une situation de panne critique sur le logiciel CLICKER. Cela engendre une perturbation des services métiers.,Critique
+INC00001000,2022-05-09,Plusieurs agences rencontrent une situation de indisponibilité totale sur le logiciel I-CASH.,Élevée
