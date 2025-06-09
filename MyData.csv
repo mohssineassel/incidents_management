@@ -1,0 +1,854 @@
+ID,Date,Description,Priorité
+INC00000522,2021-12-24,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,BAS
+INC00000738,2019-08-08,Extraction des gratuites package suspendue,BAS
+INC00000741,2024-10-03,Incident SAB : dossier non chargé dans Process Center,BAS
+INC00000661,2019-07-09,Rejets comptables sur export SAP,BAS
+INC00000412,2023-02-23,Indisponibilité temporaire du système IRIS,MODÉRÉE
+INC00000679,2018-11-04,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,BAS
+INC00000627,2020-01-25,Erreur McAfee sur VM critique,BAS
+INC00000514,2018-10-02,Incident SAB : dossier non chargé dans Process Center,BAS
+INC00000860,2022-08-30,Demande d'information sur process core prod,BAS
+INC00000137,2023-07-10,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,MODÉRÉE
+INC00000812,2024-04-20,Incident sur SAB : signatures manquantes,BAS
+INC00000077,2020-04-17,Incident SAB : dossier non chargé dans Process Center,MODÉRÉE
+INC00000637,2023-05-13,Demande fichiers formules manquants,BAS
+INC00000974,2022-07-05,Reprise extraction report bmsa non conforme,BAS
+INC00000939,2019-10-14,OD Régul representation en attente,BAS
+INC00000900,2024-12-27,Demande d'habilitation SAB refusée pour le DA Commerce,BAS
+INC00000281,2019-04-04,Validation virement échouée suite à une erreur système,MODÉRÉE
+INC00000884,2024-01-29,Blocage accès module Reporting,BAS
+INC00000762,2025-10-18,Requête d'insertion garanties internationales,BAS
+INC00000320,2018-07-25,Blocage accès module Reporting,MODÉRÉE
+INC00000550,2025-11-21,Erreur application dans module des habilitations,BAS
+INC00000175,2018-08-30,Spool EICED001P1 non généré,MODÉRÉE
+INC00000372,2020-06-13,Extraction des gratuites package suspendue,MODÉRÉE
+INC00000528,2022-08-28,Exécution d'une Requête SQL SAB des mouvements comptables,BAS
+INC00000211,2024-11-28,Demande d'habilitation SAB refusée pour le DA Commerce,MODÉRÉE
+INC00000236,2019-05-22,Demande de transfert mail service titre,MODÉRÉE
+INC00000102,2023-07-08,Spool EICED001P1 non généré,MODÉRÉE
+INC00000987,2025-08-20,Demande fichiers formules manquants,BAS
+INC00000903,2022-06-07,Demande d'habilitation SAB refusée pour le DA Commerce,BAS
+INC00000948,2019-03-24,Reprise extraction report bmsa non conforme,BAS
+INC00000347,2024-06-26,Demande d'information sur process core prod,MODÉRÉE
+INC00000140,2022-04-22,Reprise extraction report bmsa non conforme,MODÉRÉE
+INC00000622,2023-03-17,Spool EICED001P1 non généré,BAS
+INC00000500,2024-01-21,Incident SAB : validation des données temporaires échouée,BAS
+INC00000371,2021-12-14,Blocage accès module Reporting,MODÉRÉE
+INC00000199,2023-09-19,Blocage au changement de classe de sécurité,MODÉRÉE
+INC00000688,2023-02-05,Extraction des gratuites package suspendue,BAS
+INC00000585,2021-10-27,Suppression mouvement non autorisée sur SAB,BAS
+INC00000902,2019-04-25,Demande de transfert mail service titre,BAS
+INC00000060,2020-04-03,OD Régul representation en attente,MODÉRÉE
+INC00000329,2023-07-03,Absence de la tâche 'validation multiple' dans SAB,MODÉRÉE
+INC00000097,2025-04-19,Erreur application dans module des habilitations,MODÉRÉE
+INC00000313,2018-05-22,Reprise extraction report bmsa non conforme,MODÉRÉE
+INC00000975,2023-09-28,Extraction des gratuites package suspendue,BAS
+INC00000300,2022-07-04,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,MODÉRÉE
+INC00000278,2019-09-10,Profil collateral non affecté à utilisateur,MODÉRÉE
+INC00000925,2021-04-05,Absence de la tâche 'validation multiple' dans SAB,BAS
+INC00000602,2025-12-22,Exécution d'une Requête SQL SAB des mouvements comptables,BAS
+INC00000440,2020-07-20,Transfert demande d'habilitation DA provisoire,MODÉRÉE
+INC00000838,2023-09-27,Erreur McAfee sur VM critique,BAS
+INC00000571,2020-11-01,Incident sur SAB : transfert tâche bloqué,BAS
+INC00000880,2021-03-02,Exécution d'une Requête SQL SAB des mouvements comptables,BAS
+INC00000262,2018-03-24,OD Régul representation en attente,MODÉRÉE
+INC00000579,2018-09-26,Blocage accès SAB - authentification refusée,BAS
+INC00000024,2021-03-30,Incident sur SAB : transfert tâche bloqué,TRÈS BAS
+INC00000031,2019-05-11,Indisponibilité temporaire du système IRIS,TRÈS BAS
+INC00000618,2018-06-25,Erreur application dans module des habilitations,BAS
+INC00000011,2020-11-24,Blocage accès SAB - authentification refusée,TRÈS BAS
+INC00000222,2018-06-20,Demande d'habilitation SAB refusée pour le DA Commerce,MODÉRÉE
+INC00000821,2025-01-02,Incident SAB : dossier non chargé dans Process Center,BAS
+INC00000297,2024-04-19,Demande de transfert mail service titre,MODÉRÉE
+INC00000055,2022-05-06,Blocage accès module Reporting,TRÈS BAS
+INC00000543,2020-06-05,Incident SAB : dossier non chargé dans Process Center,BAS
+INC00000210,2022-04-14,Spool EICED001P1 non généré,MODÉRÉE
+INC00000605,2018-03-29,Spool EICED001P1 non généré,BAS
+INC00000693,2023-07-23,Indisponibilité temporaire du système IRIS,BAS
+INC00000663,2021-05-27,Requête d'insertion garanties internationales,BAS
+INC00000867,2022-06-10,Demande d'information sur process core prod,BAS
+INC00000071,2024-09-11,OD Régul representation en attente,MODÉRÉE
+INC00000544,2020-11-30,Incident SAB : dossier non chargé dans Process Center,BAS
+INC00000108,2024-07-11,Requête d'insertion garanties internationales,MODÉRÉE
+INC00000494,2019-11-15,Blocage lors de validation du virement,BAS
+INC00000591,2024-05-23,Transfert demande d'habilitation DA provisoire,BAS
+INC00000742,2024-11-05,Demande d'information sur process core prod,BAS
+INC00000293,2021-09-02,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,MODÉRÉE
+INC00000290,2019-07-29,Incident SAB : validation des données temporaires échouée,MODÉRÉE
+INC00000653,2023-10-02,Exécution d'une Requête SQL SAB des mouvements comptables,BAS
+INC00000040,2024-08-24,Demande de transfert mail service titre,TRÈS BAS
+INC00000590,2021-05-29,Incident sur SAB : signatures manquantes,BAS
+INC00000308,2021-04-18,Profil collateral non affecté à utilisateur,MODÉRÉE
+INC00000680,2022-09-13,Incident sur SAB : signatures manquantes,BAS
+INC00000067,2025-12-26,Spool EICED001P1 non généré,MODÉRÉE
+INC00000276,2025-09-16,Exécution d'une Requête SQL SAB des mouvements comptables,MODÉRÉE
+INC00000068,2023-04-11,Profil collateral non affecté à utilisateur,MODÉRÉE
+INC00000319,2022-01-26,Blocage validation mise à jour tiers,MODÉRÉE
+INC00000549,2023-02-08,Blocage au changement de classe de sécurité,BAS
+INC00000999,2024-08-05,Reprise extraction report bmsa non conforme,BAS
+INC00000715,2020-09-05,Validation virement échouée suite à une erreur système,BAS
+INC00000754,2024-01-01,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,BAS
+INC00000328,2025-01-21,Demande d'habilitation SAB refusée pour le DA Commerce,MODÉRÉE
+INC00000383,2025-04-14,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,MODÉRÉE
+INC00000452,2018-06-30,Blocage accès SAB - authentification refusée,MODÉRÉE
+INC00000523,2024-08-24,OD Régul representation en attente,BAS
+INC00000219,2023-05-01,Incident sur SAB : transfert tâche bloqué,MODÉRÉE
+INC00000788,2023-02-12,Exécution d'une Requête SQL SAB des mouvements comptables,BAS
+INC00000437,2021-07-10,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,MODÉRÉE
+INC00000765,2018-04-10,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,BAS
+INC00000089,2024-09-28,Incident sur SAB : signatures manquantes,MODÉRÉE
+INC00000064,2018-12-20,Indisponibilité temporaire du système IRIS,MODÉRÉE
+INC00000827,2022-03-02,Blocage lors de validation du virement,BAS
+INC00000717,2019-12-30,Blocage lors de validation du virement,BAS
+INC00000352,2025-01-01,Profil collateral non affecté à utilisateur,MODÉRÉE
+INC00000937,2025-10-04,Incident SAB : dossier non chargé dans Process Center,BAS
+INC00000257,2019-11-21,Demande de transfert mail service titre,MODÉRÉE
+INC00000636,2023-08-11,Incident SAB : validation des données temporaires échouée,BAS
+INC00000645,2020-05-24,Requête d'insertion garanties internationales,BAS
+INC00000555,2021-11-18,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,BAS
+INC00000960,2019-09-04,Extraction des gratuites package suspendue,BAS
+INC00000169,2023-02-20,Profil collateral non affecté à utilisateur,MODÉRÉE
+INC00000918,2025-04-01,Blocage au changement de classe de sécurité,BAS
+INC00000529,2018-10-16,Erreur McAfee sur VM critique,BAS
+INC00000824,2025-04-04,Validation virement échouée suite à une erreur système,BAS
+INC00000986,2025-01-23,Blocage lors de validation du virement,BAS
+INC00000817,2025-02-14,Demande d'habilitation SAB refusée pour le DA Commerce,BAS
+INC00000087,2020-07-09,Exécution d'une Requête SQL SAB des mouvements comptables,MODÉRÉE
+INC00000433,2018-12-06,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,MODÉRÉE
+INC00000185,2024-09-02,Profil collateral non affecté à utilisateur,MODÉRÉE
+INC00000979,2022-02-16,Blocage au changement de classe de sécurité,BAS
+INC00000535,2018-03-27,Spool EICED001P1 non généré,BAS
+INC00000295,2023-06-23,Extraction des gratuites package suspendue,MODÉRÉE
+INC00000893,2021-01-05,Reprise extraction report bmsa non conforme,BAS
+INC00000426,2023-03-30,Rejets comptables sur export SAP,MODÉRÉE
+INC00000714,2024-09-18,Blocage accès SAB - authentification refusée,BAS
+INC00000261,2022-11-07,Blocage accès module Reporting,MODÉRÉE
+INC00000238,2023-06-08,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,MODÉRÉE
+INC00000560,2023-03-04,Spool EICED001P1 non généré,BAS
+INC00000584,2019-02-28,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,BAS
+INC00000446,2018-05-28,Absence de la tâche 'validation multiple' dans SAB,MODÉRÉE
+INC00000868,2023-02-10,OD Régul representation en attente,BAS
+INC00000801,2021-10-07,Extraction des gratuites package suspendue,BAS
+INC00000600,2025-05-05,Demande fichiers formules manquants,BAS
+INC00000850,2018-02-28,Demande d'information sur process core prod,BAS
+INC00000266,2022-02-17,Demande de transfert mail service titre,MODÉRÉE
+INC00000996,2023-10-06,Demande fichiers formules manquants,BAS
+INC00000530,2020-03-17,Blocage lors de validation du virement,BAS
+INC00000056,2024-11-19,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,TRÈS BAS
+INC00000121,2019-05-14,Validation virement échouée suite à une erreur système,MODÉRÉE
+INC00000216,2019-01-23,Blocage validation mise à jour tiers,MODÉRÉE
+INC00000026,2022-04-04,Blocage accès SAB - authentification refusée,TRÈS BAS
+INC00000073,2025-08-25,Transfert demande d'habilitation DA provisoire,MODÉRÉE
+INC00000045,2020-11-10,Suppression mouvement non autorisée sur SAB,TRÈS BAS
+INC00000248,2022-08-01,Incident sur SAB : transfert tâche bloqué,MODÉRÉE
+INC00000722,2021-01-31,OD Régul representation en attente,BAS
+INC00000282,2023-02-16,Demande de transfert mail service titre,MODÉRÉE
+INC00000894,2022-01-26,Blocage au changement de classe de sécurité,BAS
+INC00000915,2019-10-19,OD Régul representation en attente,BAS
+INC00000811,2019-03-21,Spool EICED001P1 non généré,BAS
+INC00000245,2024-07-25,Erreur McAfee sur VM critique,MODÉRÉE
+INC00000823,2018-06-13,Blocage accès SAB - authentification refusée,BAS
+INC00000322,2019-01-24,Blocage accès SAB - authentification refusée,MODÉRÉE
+INC00000644,2018-07-20,Absence de la tâche 'validation multiple' dans SAB,BAS
+INC00000159,2020-05-30,Incident sur SAB : signatures manquantes,MODÉRÉE
+INC00000978,2025-01-03,Incident SAB : dossier non chargé dans Process Center,BAS
+INC00000430,2020-09-24,Absence de la tâche 'validation multiple' dans SAB,MODÉRÉE
+INC00000942,2023-08-16,Absence de la tâche 'validation multiple' dans SAB,BAS
+INC00000463,2021-09-26,Absence de la tâche 'validation multiple' dans SAB,MODÉRÉE
+INC00000310,2024-09-19,Demande d'habilitation SAB refusée pour le DA Commerce,MODÉRÉE
+INC00000698,2021-06-16,OD Régul representation en attente,BAS
+INC00000061,2023-06-16,Blocage validation mise à jour tiers,MODÉRÉE
+INC00000885,2023-07-25,Incident SAB : validation des données temporaires échouée,BAS
+INC00000596,2019-02-25,Incident SAB : validation des données temporaires échouée,BAS
+INC00000768,2023-07-08,Validation virement échouée suite à une erreur système,BAS
+INC00000650,2020-10-30,Exécution d'une Requête SQL SAB des mouvements comptables,BAS
+INC00000651,2022-01-28,Incident SAB : dossier non chargé dans Process Center,BAS
+INC00000866,2019-06-09,Blocage validation mise à jour tiers,BAS
+INC00000669,2023-02-17,Suppression mouvement non autorisée sur SAB,BAS
+INC00000299,2021-03-20,Reprise extraction report bmsa non conforme,MODÉRÉE
+INC00000690,2023-01-30,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,BAS
+INC00000315,2021-06-30,Incident SAB : validation des données temporaires échouée,MODÉRÉE
+INC00000311,2022-03-30,Blocage accès module Reporting,MODÉRÉE
+INC00000362,2025-02-03,Indisponibilité temporaire du système IRIS,MODÉRÉE
+INC00000480,2020-04-22,Blocage accès SAB - authentification refusée,BAS
+INC00000111,2021-03-26,OD Régul representation en attente,MODÉRÉE
+INC00000990,2019-01-27,Blocage accès module Reporting,BAS
+INC00000487,2022-11-23,Blocage accès module Reporting,BAS
+INC00000364,2025-03-19,Erreur application dans module des habilitations,MODÉRÉE
+INC00000255,2018-03-27,Spool EICED001P1 non généré,MODÉRÉE
+INC00000260,2018-01-14,Incident sur SAB : transfert tâche bloqué,MODÉRÉE
+INC00000803,2018-07-25,Requête d'insertion garanties internationales,BAS
+INC00000678,2019-02-03,Extraction des gratuites package suspendue,BAS
+INC00000495,2025-04-06,Rejets comptables sur export SAP,BAS
+INC00000671,2021-05-21,Spool EICED001P1 non généré,BAS
+INC00000378,2018-04-01,Blocage validation mise à jour tiers,MODÉRÉE
+INC00000527,2019-12-06,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,BAS
+INC00000846,2024-08-29,Demande de transfert mail service titre,BAS
+INC00000138,2021-05-31,Demande de transfert mail service titre,MODÉRÉE
+INC00000356,2021-06-16,Demande de transfert mail service titre,MODÉRÉE
+INC00000366,2024-05-17,Blocage accès module Reporting,MODÉRÉE
+INC00000943,2024-08-26,Incident sur SAB : transfert tâche bloqué,BAS
+INC00000750,2018-08-09,Blocage accès SAB - authentification refusée,BAS
+INC00000949,2022-05-21,Blocage accès module Reporting,BAS
+INC00000830,2020-07-06,Demande de transfert mail service titre,BAS
+INC00000657,2020-01-17,Demande d'information sur process core prod,BAS
+INC00000200,2023-10-09,Incident SAB : dossier non chargé dans Process Center,MODÉRÉE
+INC00000214,2018-03-08,Blocage lors de validation du virement,MODÉRÉE
+INC00000409,2020-02-06,Incident SAB : dossier non chargé dans Process Center,MODÉRÉE
+INC00000333,2018-05-30,Suppression mouvement non autorisée sur SAB,MODÉRÉE
+INC00000209,2019-09-20,Blocage validation mise à jour tiers,MODÉRÉE
+INC00000614,2020-09-26,Blocage lors de validation du virement,BAS
+INC00000079,2022-04-17,Suppression mouvement non autorisée sur SAB,MODÉRÉE
+INC00000030,2025-08-09,Erreur application dans module des habilitations,TRÈS BAS
+INC00000536,2024-04-23,OD Régul representation en attente,BAS
+INC00000696,2019-06-02,Reprise extraction report bmsa non conforme,BAS
+INC00000558,2025-06-06,Demande d'habilitation SAB refusée pour le DA Commerce,BAS
+INC00000837,2023-01-12,Rejets comptables sur export SAP,BAS
+INC00000597,2019-08-22,Validation virement échouée suite à une erreur système,BAS
+INC00000166,2024-11-23,Demande d'habilitation SAB refusée pour le DA Commerce,MODÉRÉE
+INC00000919,2023-11-24,Blocage lors de validation du virement,BAS
+INC00000496,2024-12-04,Spool EICED001P1 non généré,BAS
+INC00000825,2022-03-10,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,BAS
+INC00000066,2022-06-06,Spool EICED001P1 non généré,MODÉRÉE
+INC00000142,2022-12-16,Blocage lors de validation du virement,MODÉRÉE
+INC00000926,2021-01-11,Demande fichiers formules manquants,BAS
+INC00000828,2022-06-24,Indisponibilité temporaire du système IRIS,BAS
+INC00000656,2018-01-14,Validation virement échouée suite à une erreur système,BAS
+INC00000332,2024-05-26,Requête d'insertion garanties internationales,MODÉRÉE
+INC00000665,2018-11-04,Incident SAB : validation des données temporaires échouée,BAS
+INC00000250,2023-07-13,Requête d'insertion garanties internationales,MODÉRÉE
+INC00000908,2019-11-02,Exécution d'une Requête SQL SAB des mouvements comptables,BAS
+INC00000709,2022-09-25,Incident SAB : dossier non chargé dans Process Center,BAS
+INC00000306,2021-01-31,Suppression mouvement non autorisée sur SAB,MODÉRÉE
+INC00000735,2024-01-07,Suppression mouvement non autorisée sur SAB,BAS
+INC00000976,2019-06-22,Incident SAB : validation des données temporaires échouée,BAS
+INC00000050,2021-05-29,Reprise extraction report bmsa non conforme,TRÈS BAS
+INC00000897,2025-09-01,Blocage au changement de classe de sécurité,BAS
+INC00000003,2018-08-07,Demande d'information sur process core prod,ÉLEVÉE
+INC00000545,2019-09-28,Indisponibilité temporaire du système IRIS,BAS
+INC00000351,2024-07-03,Blocage validation mise à jour tiers,MODÉRÉE
+INC00000905,2023-03-23,Blocage accès SAB - authentification refusée,BAS
+INC00000537,2025-01-13,Demande fichiers formules manquants,BAS
+INC00000345,2022-06-27,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,MODÉRÉE
+INC00000995,2023-08-04,Indisponibilité temporaire du système IRIS,BAS
+INC00000482,2019-03-27,Absence de la tâche 'validation multiple' dans SAB,BAS
+INC00000576,2019-09-24,Demande d'information sur process core prod,BAS
+INC00000034,2024-03-16,Demande fichiers formules manquants,TRÈS BAS
+INC00000032,2024-01-25,Incident SAB : validation des données temporaires échouée,TRÈS BAS
+INC00000232,2021-10-28,Validation virement échouée suite à une erreur système,MODÉRÉE
+INC00000964,2020-10-27,Demande fichiers formules manquants,BAS
+INC00000193,2021-09-07,Erreur McAfee sur VM critique,MODÉRÉE
+INC00000334,2025-11-24,Blocage au changement de classe de sécurité,MODÉRÉE
+INC00000004,2025-05-08,Blocage validation mise à jour tiers,ÉLEVÉE
+INC00000205,2023-11-24,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,MODÉRÉE
+INC00000515,2023-11-26,Incident SAB : dossier non chargé dans Process Center,BAS
+INC00000800,2023-04-06,Incident SAB : dossier non chargé dans Process Center,BAS
+INC00000307,2024-08-08,Reprise extraction report bmsa non conforme,MODÉRÉE
+INC00000110,2020-11-26,Validation virement échouée suite à une erreur système,MODÉRÉE
+INC00000431,2020-10-29,Absence de la tâche 'validation multiple' dans SAB,MODÉRÉE
+INC00000078,2022-06-09,Incident SAB : dossier non chargé dans Process Center,MODÉRÉE
+INC00000085,2019-08-23,Demande fichiers formules manquants,MODÉRÉE
+INC00000287,2020-11-06,Erreur application dans module des habilitations,MODÉRÉE
+INC00000083,2024-04-14,Blocage accès SAB - authentification refusée,MODÉRÉE
+INC00000992,2023-12-04,Profil collateral non affecté à utilisateur,BAS
+INC00000790,2022-04-06,Erreur McAfee sur VM critique,BAS
+INC00000895,2018-02-15,Incident sur SAB : signatures manquantes,BAS
+INC00000399,2025-10-26,Blocage validation mise à jour tiers,MODÉRÉE
+INC00000324,2020-06-05,Transfert demande d'habilitation DA provisoire,MODÉRÉE
+INC00000520,2018-08-20,Demande de transfert mail service titre,BAS
+INC00000917,2020-05-10,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,BAS
+INC00000923,2019-01-07,Profil collateral non affecté à utilisateur,BAS
+INC00000006,2020-09-29,Demande fichiers formules manquants,ÉLEVÉE
+INC00000732,2022-05-30,Incident SAB : dossier non chargé dans Process Center,BAS
+INC00000466,2025-10-30,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,MODÉRÉE
+INC00000098,2021-11-29,Incident sur SAB : transfert tâche bloqué,MODÉRÉE
+INC00000267,2022-08-07,Blocage accès SAB - authentification refusée,MODÉRÉE
+INC00000358,2020-01-10,Erreur McAfee sur VM critique,MODÉRÉE
+INC00000869,2022-06-11,Extraction des gratuites package suspendue,BAS
+INC00000799,2020-05-19,Incident sur SAB : signatures manquantes,BAS
+INC00000381,2018-09-20,Transfert demande d'habilitation DA provisoire,MODÉRÉE
+INC00000632,2025-11-04,Absence de la tâche 'validation multiple' dans SAB,BAS
+INC00000382,2022-04-30,Erreur application dans module des habilitations,MODÉRÉE
+INC00000491,2021-05-17,Incident SAB : dossier non chargé dans Process Center,BAS
+INC00000119,2025-08-16,Incident SAB : validation des données temporaires échouée,MODÉRÉE
+INC00000901,2023-03-28,Extraction des gratuites package suspendue,BAS
+INC00000251,2020-04-04,Incident sur SAB : signatures manquantes,MODÉRÉE
+INC00000524,2020-05-01,Incident sur SAB : transfert tâche bloqué,BAS
+INC00000010,2022-12-03,Blocage au changement de classe de sécurité,ÉLEVÉE
+INC00000197,2022-02-16,Blocage lors de validation du virement,MODÉRÉE
+INC00000604,2018-01-13,Incident SAB : validation des données temporaires échouée,BAS
+INC00000082,2023-07-05,Blocage validation mise à jour tiers,MODÉRÉE
+INC00000784,2025-09-24,Erreur application dans module des habilitations,BAS
+INC00000588,2018-10-11,Blocage accès SAB - authentification refusée,BAS
+INC00000798,2025-09-03,Suppression mouvement non autorisée sur SAB,BAS
+INC00000240,2019-01-12,Spool EICED001P1 non généré,MODÉRÉE
+INC00000291,2020-10-24,Incident sur SAB : transfert tâche bloqué,MODÉRÉE
+INC00000212,2022-07-22,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,MODÉRÉE
+INC00000718,2019-07-25,Demande de transfert mail service titre,BAS
+INC00000360,2025-04-01,Exécution d'une Requête SQL SAB des mouvements comptables,MODÉRÉE
+INC00000450,2018-04-14,Exécution d'une Requête SQL SAB des mouvements comptables,MODÉRÉE
+INC00000228,2024-05-12,Exécution d'une Requête SQL SAB des mouvements comptables,MODÉRÉE
+INC00000951,2024-09-19,Demande d'habilitation SAB refusée pour le DA Commerce,BAS
+INC00000947,2025-11-21,Suppression mouvement non autorisée sur SAB,BAS
+INC00000797,2019-02-07,OD Régul representation en attente,BAS
+INC00000502,2021-03-05,Demande fichiers formules manquants,BAS
+INC00000465,2020-06-06,Demande de transfert mail service titre,MODÉRÉE
+INC00000363,2020-02-09,Rejets comptables sur export SAP,MODÉRÉE
+INC00000469,2023-07-21,Erreur application dans module des habilitations,MODÉRÉE
+INC00000936,2025-01-10,Absence de la tâche 'validation multiple' dans SAB,BAS
+INC00000429,2022-09-16,Blocage accès SAB - authentification refusée,MODÉRÉE
+INC00000008,2020-02-29,Exécution d'une Requête SQL SAB des mouvements comptables,ÉLEVÉE
+INC00000156,2018-09-15,Demande de transfert mail service titre,MODÉRÉE
+INC00000542,2018-09-01,Reprise extraction report bmsa non conforme,BAS
+INC00000441,2018-12-26,Blocage au changement de classe de sécurité,MODÉRÉE
+INC00000483,2022-09-11,Blocage lors de validation du virement,BAS
+INC00000423,2019-12-16,Reprise extraction report bmsa non conforme,MODÉRÉE
+INC00000779,2019-02-18,Extraction des gratuites package suspendue,BAS
+INC00000950,2025-07-19,Demande d'habilitation SAB refusée pour le DA Commerce,BAS
+INC00000335,2025-11-13,Blocage accès SAB - authentification refusée,MODÉRÉE
+INC00000577,2018-05-13,Indisponibilité temporaire du système IRIS,BAS
+INC00000935,2018-03-08,Erreur application dans module des habilitations,BAS
+INC00000568,2025-10-15,Blocage accès module Reporting,BAS
+INC00000595,2023-08-27,Spool EICED001P1 non généré,BAS
+INC00000531,2018-07-27,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,BAS
+INC00000582,2024-03-25,Indisponibilité temporaire du système IRIS,BAS
+INC00000708,2024-05-03,Incident sur SAB : transfert tâche bloqué,BAS
+INC00000449,2018-09-01,Reprise extraction report bmsa non conforme,MODÉRÉE
+INC00000454,2022-04-05,Incident SAB : dossier non chargé dans Process Center,MODÉRÉE
+INC00000229,2018-09-02,Erreur McAfee sur VM critique,MODÉRÉE
+INC00000353,2019-05-10,Blocage accès module Reporting,MODÉRÉE
+INC00000729,2022-01-01,Blocage validation mise à jour tiers,BAS
+INC00000213,2019-10-12,Extraction des gratuites package suspendue,MODÉRÉE
+INC00000080,2024-08-17,Erreur application dans module des habilitations,MODÉRÉE
+INC00000149,2018-06-12,Incident SAB : validation des données temporaires échouée,MODÉRÉE
+INC00000303,2024-03-19,Blocage accès module Reporting,MODÉRÉE
+INC00000629,2018-07-22,Requête d'insertion garanties internationales,BAS
+INC00000778,2020-09-16,OD Régul representation en attente,BAS
+INC00000507,2021-11-12,Profil collateral non affecté à utilisateur,BAS
+INC00000343,2022-07-17,Demande d'information sur process core prod,MODÉRÉE
+INC00000486,2025-12-22,Blocage accès module Reporting,BAS
+INC00000712,2025-04-14,Incident sur SAB : transfert tâche bloqué,BAS
+INC00000134,2022-07-28,Blocage accès module Reporting,MODÉRÉE
+INC00000704,2025-06-30,Incident sur SAB : transfert tâche bloqué,BAS
+INC00000312,2021-07-14,Demande de transfert mail service titre,MODÉRÉE
+INC00000723,2024-09-25,Blocage au changement de classe de sécurité,BAS
+INC00000630,2019-07-27,Demande de transfert mail service titre,BAS
+INC00000001,2018-02-04,Exécution d'une Requête SQL SAB des mouvements comptables,CRITIQUE
+INC00000317,2024-08-25,Profil collateral non affecté à utilisateur,MODÉRÉE
+INC00000707,2019-10-27,Blocage validation mise à jour tiers,BAS
+INC00000548,2025-07-03,Erreur application dans module des habilitations,BAS
+INC00000873,2022-09-27,Demande de transfert mail service titre,BAS
+INC00000533,2018-04-16,Extraction des gratuites package suspendue,BAS
+INC00000478,2019-11-04,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,BAS
+INC00000405,2023-04-04,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,MODÉRÉE
+INC00000173,2024-09-21,Incident sur SAB : transfert tâche bloqué,MODÉRÉE
+INC00000126,2024-05-06,Blocage lors de validation du virement,MODÉRÉE
+INC00000395,2025-06-10,OD Régul representation en attente,MODÉRÉE
+INC00000421,2020-04-22,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,MODÉRÉE
+INC00000553,2020-07-17,Blocage validation mise à jour tiers,BAS
+INC00000904,2018-05-21,Reprise extraction report bmsa non conforme,BAS
+INC00000091,2024-11-17,Demande fichiers formules manquants,MODÉRÉE
+INC00000940,2023-02-04,Erreur McAfee sur VM critique,BAS
+INC00000182,2021-06-08,OD Régul representation en attente,MODÉRÉE
+INC00000275,2025-08-29,Incident sur SAB : transfert tâche bloqué,MODÉRÉE
+INC00000896,2018-05-29,Blocage accès module Reporting,BAS
+INC00000070,2018-07-16,Blocage validation mise à jour tiers,MODÉRÉE
+INC00000292,2020-05-08,Exécution d'une Requête SQL SAB des mouvements comptables,MODÉRÉE
+INC00000132,2020-09-17,Erreur McAfee sur VM critique,MODÉRÉE
+INC00000301,2022-01-02,Demande fichiers formules manquants,MODÉRÉE
+INC00000425,2020-04-07,Requête d'insertion garanties internationales,MODÉRÉE
+INC00000327,2020-07-05,Extraction des gratuites package suspendue,MODÉRÉE
+INC00000145,2025-11-26,Absence de la tâche 'validation multiple' dans SAB,MODÉRÉE
+INC00000424,2019-07-08,Rejets comptables sur export SAP,MODÉRÉE
+INC00000581,2024-05-09,Incident sur SAB : signatures manquantes,BAS
+INC00000136,2022-02-03,Absence de la tâche 'validation multiple' dans SAB,MODÉRÉE
+INC00000451,2018-09-24,Requête d'insertion garanties internationales,MODÉRÉE
+INC00000165,2021-05-05,Spool EICED001P1 non généré,MODÉRÉE
+INC00000029,2020-04-26,OD Régul representation en attente,TRÈS BAS
+INC00000774,2025-06-24,Demande d'habilitation SAB refusée pour le DA Commerce,BAS
+INC00000194,2023-05-30,Spool EICED001P1 non généré,MODÉRÉE
+INC00000389,2023-09-11,Indisponibilité temporaire du système IRIS,MODÉRÉE
+INC00000853,2024-06-21,Blocage au changement de classe de sécurité,BAS
+INC00000170,2023-05-18,Erreur application dans module des habilitations,MODÉRÉE
+INC00000706,2024-02-06,OD Régul representation en attente,BAS
+INC00000141,2021-05-08,Profil collateral non affecté à utilisateur,MODÉRÉE
+INC00000174,2018-08-01,Incident SAB : validation des données temporaires échouée,MODÉRÉE
+INC00000007,2019-09-12,Blocage accès module Reporting,ÉLEVÉE
+INC00000746,2020-10-01,Extraction des gratuites package suspendue,BAS
+INC00000479,2018-10-06,Reprise extraction report bmsa non conforme,BAS
+INC00000074,2019-08-08,Blocage accès SAB - authentification refusée,MODÉRÉE
+INC00000911,2023-06-16,Blocage accès SAB - authentification refusée,BAS
+INC00000814,2022-08-05,Profil collateral non affecté à utilisateur,BAS
+INC00000239,2018-10-28,Transfert demande d'habilitation DA provisoire,MODÉRÉE
+INC00000146,2021-03-31,Blocage validation mise à jour tiers,MODÉRÉE
+INC00000793,2021-05-31,Exécution d'une Requête SQL SAB des mouvements comptables,BAS
+INC00000235,2020-09-09,Incident sur SAB : signatures manquantes,MODÉRÉE
+INC00000221,2025-10-04,OD Régul representation en attente,MODÉRÉE
+INC00000924,2021-03-18,Demande d'habilitation SAB refusée pour le DA Commerce,BAS
+INC00000501,2018-09-21,Erreur application dans module des habilitations,BAS
+INC00000133,2018-02-15,Blocage accès module Reporting,MODÉRÉE
+INC00000991,2019-07-02,Erreur application dans module des habilitations,BAS
+INC00000775,2025-09-26,OD Régul representation en attente,BAS
+INC00000186,2018-03-21,Demande fichiers formules manquants,MODÉRÉE
+INC00000042,2021-05-25,Incident sur SAB : signatures manquantes,TRÈS BAS
+INC00000697,2020-12-27,OD Régul representation en attente,BAS
+INC00000109,2021-09-05,Demande d'information sur process core prod,MODÉRÉE
+INC00000589,2022-09-11,Incident sur SAB : signatures manquantes,BAS
+INC00000057,2021-08-28,Rejets comptables sur export SAP,TRÈS BAS
+INC00000406,2022-04-17,Rejets comptables sur export SAP,MODÉRÉE
+INC00000443,2020-09-02,Suppression mouvement non autorisée sur SAB,MODÉRÉE
+INC00000758,2019-03-27,Incident SAB : dossier non chargé dans Process Center,BAS
+INC00000998,2018-05-19,Incident SAB : dossier non chargé dans Process Center,BAS
+INC00000025,2022-09-11,Incident sur SAB : transfert tâche bloqué,TRÈS BAS
+INC00000468,2018-07-13,Exécution d'une Requête SQL SAB des mouvements comptables,MODÉRÉE
+INC00000540,2020-03-20,Erreur McAfee sur VM critique,BAS
+INC00000532,2023-01-14,Rejets comptables sur export SAP,BAS
+INC00000619,2018-04-24,Erreur McAfee sur VM critique,BAS
+INC00000695,2024-03-25,Spool EICED001P1 non généré,BAS
+INC00000927,2025-04-16,Blocage validation mise à jour tiers,BAS
+INC00000339,2019-05-10,Incident SAB : validation des données temporaires échouée,MODÉRÉE
+INC00000052,2020-10-13,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,TRÈS BAS
+INC00000508,2024-01-28,Spool EICED001P1 non généré,BAS
+INC00000517,2018-05-30,Indisponibilité temporaire du système IRIS,BAS
+INC00000921,2023-07-17,Blocage accès module Reporting,BAS
+INC00000782,2024-07-14,Requête d'insertion garanties internationales,BAS
+INC00000265,2018-02-07,Demande fichiers formules manquants,MODÉRÉE
+INC00000818,2023-11-12,Exécution d'une Requête SQL SAB des mouvements comptables,BAS
+INC00000711,2019-12-24,Blocage validation mise à jour tiers,BAS
+INC00000683,2024-09-10,Blocage au changement de classe de sécurité,BAS
+INC00000833,2020-12-31,Reprise extraction report bmsa non conforme,BAS
+INC00000519,2019-11-03,Exécution d'une Requête SQL SAB des mouvements comptables,BAS
+INC00000448,2024-04-02,Demande de transfert mail service titre,MODÉRÉE
+INC00000019,2024-08-03,Blocage validation mise à jour tiers,TRÈS BAS
+INC00000716,2019-06-02,Incident SAB : dossier non chargé dans Process Center,BAS
+INC00000484,2021-04-18,Indisponibilité temporaire du système IRIS,BAS
+INC00000569,2020-06-16,Blocage au changement de classe de sécurité,BAS
+INC00000434,2024-08-16,Incident SAB : dossier non chargé dans Process Center,MODÉRÉE
+INC00000368,2019-10-05,Blocage accès SAB - authentification refusée,MODÉRÉE
+INC00000084,2023-07-10,Incident sur SAB : transfert tâche bloqué,MODÉRÉE
+INC00000062,2024-11-17,Incident sur SAB : transfert tâche bloqué,MODÉRÉE
+INC00000639,2025-08-28,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,BAS
+INC00000273,2024-07-09,Spool EICED001P1 non généré,MODÉRÉE
+INC00000286,2018-10-02,Erreur application dans module des habilitations,MODÉRÉE
+INC00000361,2020-01-17,Rejets comptables sur export SAP,MODÉRÉE
+INC00000355,2020-02-22,Blocage accès SAB - authentification refusée,MODÉRÉE
+INC00000457,2018-07-26,Blocage au changement de classe de sécurité,MODÉRÉE
+INC00000279,2021-09-18,Blocage validation mise à jour tiers,MODÉRÉE
+INC00000013,2020-01-23,Exécution d'une Requête SQL SAB des mouvements comptables,TRÈS BAS
+INC00000183,2022-12-02,Erreur application dans module des habilitations,MODÉRÉE
+INC00000369,2021-10-01,Reprise extraction report bmsa non conforme,MODÉRÉE
+INC00000882,2022-11-18,Suppression mouvement non autorisée sur SAB,BAS
+INC00000616,2018-09-03,Validation virement échouée suite à une erreur système,BAS
+INC00000224,2022-11-04,Erreur application dans module des habilitations,MODÉRÉE
+INC00000573,2022-05-18,Blocage au changement de classe de sécurité,BAS
+INC00000971,2022-10-20,Blocage lors de validation du virement,BAS
+INC00000654,2025-03-18,Rejets comptables sur export SAP,BAS
+INC00000546,2023-05-27,Demande d'information sur process core prod,BAS
+INC00000583,2025-06-08,Incident sur SAB : signatures manquantes,BAS
+INC00000634,2018-08-18,Demande fichiers formules manquants,BAS
+INC00000177,2020-10-26,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,MODÉRÉE
+INC00000666,2021-07-11,Incident SAB : validation des données temporaires échouée,BAS
+INC00000674,2025-06-23,OD Régul representation en attente,BAS
+INC00000586,2019-01-24,Requête d'insertion garanties internationales,BAS
+INC00000874,2019-08-31,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,BAS
+INC00000394,2023-12-08,Blocage accès SAB - authentification refusée,MODÉRÉE
+INC00000164,2021-02-21,Exécution d'une Requête SQL SAB des mouvements comptables,MODÉRÉE
+INC00000249,2024-04-23,Suppression mouvement non autorisée sur SAB,MODÉRÉE
+INC00000635,2023-09-26,Suppression mouvement non autorisée sur SAB,BAS
+INC00000886,2019-04-04,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,BAS
+INC00000670,2022-12-14,Requête d'insertion garanties internationales,BAS
+INC00000376,2025-10-02,Demande fichiers formules manquants,MODÉRÉE
+INC00000413,2021-12-01,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,MODÉRÉE
+INC00000075,2020-03-26,Demande fichiers formules manquants,MODÉRÉE
+INC00000114,2019-02-09,Blocage au changement de classe de sécurité,MODÉRÉE
+INC00000599,2019-05-27,Blocage validation mise à jour tiers,BAS
+INC00000962,2025-07-28,Demande fichiers formules manquants,BAS
+INC00000391,2024-12-26,Incident sur SAB : transfert tâche bloqué,MODÉRÉE
+INC00000105,2024-05-12,Incident sur SAB : signatures manquantes,MODÉRÉE
+INC00000115,2020-10-13,Profil collateral non affecté à utilisateur,MODÉRÉE
+INC00000418,2020-11-10,Demande de transfert mail service titre,MODÉRÉE
+INC00000526,2019-01-16,Profil collateral non affecté à utilisateur,BAS
+INC00000458,2021-12-16,Transfert demande d'habilitation DA provisoire,MODÉRÉE
+INC00000410,2022-12-30,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,MODÉRÉE
+INC00000093,2025-08-01,Spool EICED001P1 non généré,MODÉRÉE
+INC00000931,2022-01-22,Incident SAB : dossier non chargé dans Process Center,BAS
+INC00000090,2022-06-25,Absence de la tâche 'validation multiple' dans SAB,MODÉRÉE
+INC00000337,2025-01-18,Incident SAB : dossier non chargé dans Process Center,MODÉRÉE
+INC00000989,2025-01-04,Blocage validation mise à jour tiers,BAS
+INC00000922,2023-05-28,Blocage accès module Reporting,BAS
+INC00000934,2023-05-21,Indisponibilité temporaire du système IRIS,BAS
+INC00000606,2018-09-07,Blocage validation mise à jour tiers,BAS
+INC00000594,2022-02-25,Blocage au changement de classe de sécurité,BAS
+INC00000612,2021-11-17,Demande d'information sur process core prod,BAS
+INC00000095,2021-11-26,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,MODÉRÉE
+INC00000012,2023-01-11,Blocage accès SAB - authentification refusée,TRÈS BAS
+INC00000397,2020-08-22,Incident SAB : dossier non chargé dans Process Center,MODÉRÉE
+INC00000534,2025-10-20,Incident SAB : validation des données temporaires échouée,BAS
+INC00000044,2024-02-01,OD Régul representation en attente,TRÈS BAS
+INC00000043,2024-12-02,Indisponibilité temporaire du système IRIS,TRÈS BAS
+INC00000330,2024-03-20,Blocage validation mise à jour tiers,MODÉRÉE
+INC00000168,2019-03-29,Absence de la tâche 'validation multiple' dans SAB,MODÉRÉE
+INC00000498,2023-05-23,Incident sur SAB : signatures manquantes,BAS
+INC00000877,2020-05-30,Rejets comptables sur export SAP,BAS
+INC00000598,2019-06-28,Spool EICED001P1 non généré,BAS
+INC00000757,2018-10-23,Erreur McAfee sur VM critique,BAS
+INC00000101,2020-01-11,Validation virement échouée suite à une erreur système,MODÉRÉE
+INC00000427,2023-05-23,Incident sur SAB : signatures manquantes,MODÉRÉE
+INC00000179,2023-08-18,Requête d'insertion garanties internationales,MODÉRÉE
+INC00000445,2020-02-08,Indisponibilité temporaire du système IRIS,MODÉRÉE
+INC00000417,2025-11-13,Validation virement échouée suite à une erreur système,MODÉRÉE
+INC00000871,2023-02-06,Reprise extraction report bmsa non conforme,BAS
+INC00000883,2024-09-01,Incident sur SAB : signatures manquantes,BAS
+INC00000681,2020-03-01,Reprise extraction report bmsa non conforme,BAS
+INC00000178,2021-04-08,Demande de transfert mail service titre,MODÉRÉE
+INC00000396,2019-12-08,Demande de transfert mail service titre,MODÉRÉE
+INC00000912,2024-10-14,Blocage accès SAB - authentification refusée,BAS
+INC00000794,2019-02-26,Demande fichiers formules manquants,BAS
+INC00000961,2018-10-11,Exécution d'une Requête SQL SAB des mouvements comptables,BAS
+INC00000685,2022-02-02,Erreur McAfee sur VM critique,BAS
+INC00000384,2018-02-07,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,MODÉRÉE
+INC00000957,2019-08-13,Blocage accès SAB - authentification refusée,BAS
+INC00000752,2018-05-02,Transfert demande d'habilitation DA provisoire,BAS
+INC00000258,2021-09-02,Blocage lors de validation du virement,MODÉRÉE
+INC00000539,2021-02-06,Blocage accès module Reporting,BAS
+INC00000336,2025-05-07,Reprise extraction report bmsa non conforme,MODÉRÉE
+INC00000016,2020-04-22,OD Régul representation en attente,TRÈS BAS
+INC00000325,2024-06-30,Incident SAB : validation des données temporaires échouée,MODÉRÉE
+INC00000759,2021-01-15,Demande fichiers formules manquants,BAS
+INC00000223,2019-04-29,Blocage lors de validation du virement,MODÉRÉE
+INC00000180,2023-11-16,Exécution d'une Requête SQL SAB des mouvements comptables,MODÉRÉE
+INC00000984,2024-04-23,Demande de transfert mail service titre,BAS
+INC00000023,2024-03-13,Incident SAB : validation des données temporaires échouée,TRÈS BAS
+INC00000357,2024-10-15,Profil collateral non affecté à utilisateur,MODÉRÉE
+INC00000667,2019-10-09,Spool EICED001P1 non généré,BAS
+INC00000862,2024-10-01,Erreur application dans module des habilitations,BAS
+INC00000341,2022-02-13,Erreur application dans module des habilitations,MODÉRÉE
+INC00000432,2018-09-05,Spool EICED001P1 non généré,MODÉRÉE
+INC00000552,2020-05-13,Indisponibilité temporaire du système IRIS,BAS
+INC00000834,2021-05-05,Suppression mouvement non autorisée sur SAB,BAS
+INC00000204,2021-12-24,Validation virement échouée suite à une erreur système,MODÉRÉE
+INC00000631,2019-10-16,Incident SAB : dossier non chargé dans Process Center,BAS
+INC00000094,2024-01-25,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,MODÉRÉE
+INC00000559,2024-05-06,Indisponibilité temporaire du système IRIS,BAS
+INC00000069,2019-06-07,Requête d'insertion garanties internationales,MODÉRÉE
+INC00000623,2022-10-22,Indisponibilité temporaire du système IRIS,BAS
+INC00000285,2023-06-11,Spool EICED001P1 non généré,MODÉRÉE
+INC00000845,2023-11-09,Blocage accès SAB - authentification refusée,BAS
+INC00000435,2021-09-19,Incident SAB : dossier non chargé dans Process Center,MODÉRÉE
+INC00000154,2020-11-14,Blocage accès module Reporting,MODÉRÉE
+INC00000076,2024-10-19,Demande de transfert mail service titre,MODÉRÉE
+INC00000731,2024-05-24,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,BAS
+INC00000447,2020-04-09,Incident sur SAB : transfert tâche bloqué,MODÉRÉE
+INC00000189,2018-05-24,Blocage accès SAB - authentification refusée,MODÉRÉE
+INC00000272,2024-09-22,Demande d'habilitation SAB refusée pour le DA Commerce,MODÉRÉE
+INC00000237,2018-08-29,Blocage validation mise à jour tiers,MODÉRÉE
+INC00000488,2021-08-17,Demande fichiers formules manquants,BAS
+INC00000118,2020-07-03,Erreur application dans module des habilitations,MODÉRÉE
+INC00000944,2023-07-12,Extraction des gratuites package suspendue,BAS
+INC00000513,2025-03-10,Incident sur SAB : signatures manquantes,BAS
+INC00000826,2025-11-23,Incident SAB : dossier non chargé dans Process Center,BAS
+INC00000592,2019-09-05,Profil collateral non affecté à utilisateur,BAS
+INC00000127,2018-11-18,Incident sur SAB : transfert tâche bloqué,MODÉRÉE
+INC00000117,2022-04-18,Blocage accès module Reporting,MODÉRÉE
+INC00000474,2024-04-08,Demande de transfert mail service titre,MODÉRÉE
+INC00000694,2021-01-15,Blocage accès SAB - authentification refusée,BAS
+INC00000058,2022-10-03,Reprise extraction report bmsa non conforme,TRÈS BAS
+INC00000864,2022-04-09,Blocage validation mise à jour tiers,BAS
+INC00000913,2018-08-25,Reprise extraction report bmsa non conforme,BAS
+INC00000370,2021-06-13,Blocage accès module Reporting,MODÉRÉE
+INC00000269,2023-02-18,Exécution d'une Requête SQL SAB des mouvements comptables,MODÉRÉE
+INC00000047,2024-07-01,Reprise extraction report bmsa non conforme,TRÈS BAS
+INC00000350,2024-01-18,Erreur application dans module des habilitations,MODÉRÉE
+INC00000196,2018-08-30,OD Régul representation en attente,MODÉRÉE
+INC00001000,2020-08-22,Spool EICED001P1 non généré,BAS
+INC00000835,2022-01-30,Absence de la tâche 'validation multiple' dans SAB,BAS
+INC00000737,2022-07-14,Extraction des gratuites package suspendue,BAS
+INC00000264,2021-11-07,Suppression mouvement non autorisée sur SAB,MODÉRÉE
+INC00000444,2024-08-28,Spool EICED001P1 non généré,MODÉRÉE
+INC00000676,2020-11-28,Validation virement échouée suite à une erreur système,BAS
+INC00000305,2019-04-18,Transfert demande d'habilitation DA provisoire,MODÉRÉE
+INC00000342,2023-11-05,Transfert demande d'habilitation DA provisoire,MODÉRÉE
+INC00000967,2022-12-13,Rejets comptables sur export SAP,BAS
+INC00000150,2025-12-02,Profil collateral non affecté à utilisateur,MODÉRÉE
+INC00000125,2020-06-30,Blocage accès module Reporting,MODÉRÉE
+INC00000787,2025-05-27,Exécution d'une Requête SQL SAB des mouvements comptables,BAS
+INC00000051,2023-03-05,Profil collateral non affecté à utilisateur,TRÈS BAS
+INC00000354,2023-05-13,Erreur McAfee sur VM critique,MODÉRÉE
+INC00000928,2021-04-06,Demande fichiers formules manquants,BAS
+INC00000143,2021-11-06,Demande d'habilitation SAB refusée pour le DA Commerce,MODÉRÉE
+INC00000471,2020-08-28,Incident SAB : validation des données temporaires échouée,MODÉRÉE
+INC00000400,2021-04-11,Blocage accès module Reporting,MODÉRÉE
+INC00000626,2025-05-06,Requête d'insertion garanties internationales,BAS
+INC00000321,2021-12-09,Erreur application dans module des habilitations,MODÉRÉE
+INC00000020,2024-07-22,Requête d'insertion garanties internationales,TRÈS BAS
+INC00000810,2023-09-14,Indisponibilité temporaire du système IRIS,BAS
+INC00000791,2020-02-17,Erreur application dans module des habilitations,BAS
+INC00000809,2020-05-30,Incident sur SAB : transfert tâche bloqué,BAS
+INC00000408,2020-01-04,Requête d'insertion garanties internationales,MODÉRÉE
+INC00000538,2020-05-02,Rejets comptables sur export SAP,BAS
+INC00000621,2024-09-27,Absence de la tâche 'validation multiple' dans SAB,BAS
+INC00000039,2023-10-08,Erreur application dans module des habilitations,TRÈS BAS
+INC00000176,2021-08-03,Validation virement échouée suite à une erreur système,MODÉRÉE
+INC00000246,2019-03-07,Erreur application dans module des habilitations,MODÉRÉE
+INC00000829,2018-10-03,Demande d'information sur process core prod,BAS
+INC00000668,2025-11-16,Incident SAB : validation des données temporaires échouée,BAS
+INC00000755,2021-11-12,Requête d'insertion garanties internationales,BAS
+INC00000859,2022-03-06,Extraction des gratuites package suspendue,BAS
+INC00000155,2025-08-15,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,MODÉRÉE
+INC00000288,2018-10-09,Incident SAB : validation des données temporaires échouée,MODÉRÉE
+INC00000603,2023-11-09,Incident SAB : dossier non chargé dans Process Center,BAS
+INC00000570,2021-12-26,Incident sur SAB : transfert tâche bloqué,BAS
+INC00000744,2021-11-13,Absence de la tâche 'validation multiple' dans SAB,BAS
+INC00000018,2021-11-30,Incident sur SAB : transfert tâche bloqué,TRÈS BAS
+INC00000128,2023-11-16,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,MODÉRÉE
+INC00000323,2020-10-09,Blocage validation mise à jour tiers,MODÉRÉE
+INC00000256,2019-08-08,Blocage lors de validation du virement,MODÉRÉE
+INC00000658,2018-11-08,Demande fichiers formules manquants,BAS
+INC00000965,2021-01-07,Demande d'information sur process core prod,BAS
+INC00000191,2020-04-21,OD Régul representation en attente,MODÉRÉE
+INC00000116,2019-04-15,Blocage accès module Reporting,MODÉRÉE
+INC00000617,2019-04-18,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,BAS
+INC00000607,2023-04-06,Erreur McAfee sur VM critique,BAS
+INC00000181,2024-07-29,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,MODÉRÉE
+INC00000302,2021-08-04,Profil collateral non affecté à utilisateur,MODÉRÉE
+INC00000760,2018-01-14,Incident sur SAB : signatures manquantes,BAS
+INC00000713,2025-08-20,Transfert demande d'habilitation DA provisoire,BAS
+INC00000724,2020-07-29,Requête d'insertion garanties internationales,BAS
+INC00000686,2022-08-30,OD Régul representation en attente,BAS
+INC00000980,2021-06-13,Blocage validation mise à jour tiers,BAS
+INC00000518,2019-08-08,Blocage au changement de classe de sécurité,BAS
+INC00000985,2021-12-18,Absence de la tâche 'validation multiple' dans SAB,BAS
+INC00000046,2021-10-15,Demande fichiers formules manquants,TRÈS BAS
+INC00000910,2023-03-17,OD Régul representation en attente,BAS
+INC00000158,2021-06-05,Erreur application dans module des habilitations,MODÉRÉE
+INC00000852,2025-09-01,Incident SAB : validation des données temporaires échouée,BAS
+INC00000172,2022-10-05,Erreur application dans module des habilitations,MODÉRÉE
+INC00000017,2024-11-28,Incident sur SAB : signatures manquantes,TRÈS BAS
+INC00000512,2018-09-13,OD Régul representation en attente,BAS
+INC00000049,2022-04-20,Demande d'information sur process core prod,TRÈS BAS
+INC00000972,2023-07-11,Suppression mouvement non autorisée sur SAB,BAS
+INC00000941,2019-10-31,Demande de transfert mail service titre,BAS
+INC00000516,2025-06-23,Blocage lors de validation du virement,BAS
+INC00000953,2024-08-17,Requête d'insertion garanties internationales,BAS
+INC00000481,2025-12-27,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,BAS
+INC00000284,2025-01-16,Requête d'insertion garanties internationales,MODÉRÉE
+INC00000719,2019-11-19,Blocage accès SAB - authentification refusée,BAS
+INC00000878,2018-08-26,Blocage lors de validation du virement,BAS
+INC00000226,2020-01-30,Absence de la tâche 'validation multiple' dans SAB,MODÉRÉE
+INC00000027,2022-08-28,Exécution d'une Requête SQL SAB des mouvements comptables,TRÈS BAS
+INC00000955,2021-12-17,Spool EICED001P1 non généré,BAS
+INC00000438,2019-02-16,Profil collateral non affecté à utilisateur,MODÉRÉE
+INC00000952,2020-06-26,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,BAS
+INC00000365,2024-04-19,Blocage au changement de classe de sécurité,MODÉRÉE
+INC00000230,2021-08-20,Erreur McAfee sur VM critique,MODÉRÉE
+INC00000038,2021-01-30,Demande de transfert mail service titre,TRÈS BAS
+INC00000966,2022-04-17,Demande d'habilitation SAB refusée pour le DA Commerce,BAS
+INC00000375,2020-07-03,Extraction des gratuites package suspendue,MODÉRÉE
+INC00000470,2021-06-05,Blocage accès module Reporting,MODÉRÉE
+INC00000968,2020-04-29,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,BAS
+INC00000851,2018-04-01,Suppression mouvement non autorisée sur SAB,BAS
+INC00000705,2018-11-28,Transfert demande d'habilitation DA provisoire,BAS
+INC00000842,2021-08-31,Profil collateral non affecté à utilisateur,BAS
+INC00000195,2021-12-19,OD Régul representation en attente,MODÉRÉE
+INC00000855,2023-01-01,Reprise extraction report bmsa non conforme,BAS
+INC00000865,2020-12-26,Demande d'habilitation SAB refusée pour le DA Commerce,BAS
+INC00000504,2025-09-15,Spool EICED001P1 non généré,BAS
+INC00000970,2019-02-16,Absence de la tâche 'validation multiple' dans SAB,BAS
+INC00000831,2025-10-22,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,BAS
+INC00000580,2020-04-11,Reprise extraction report bmsa non conforme,BAS
+INC00000969,2018-03-19,Suppression mouvement non autorisée sur SAB,BAS
+INC00000163,2019-11-08,Demande d'information sur process core prod,MODÉRÉE
+INC00000909,2025-10-21,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,BAS
+INC00000153,2019-09-04,Incident sur SAB : signatures manquantes,MODÉRÉE
+INC00000802,2025-04-30,OD Régul representation en attente,BAS
+INC00000994,2021-10-16,Incident sur SAB : signatures manquantes,BAS
+INC00000756,2021-01-23,Demande de transfert mail service titre,BAS
+INC00000112,2020-08-16,Profil collateral non affecté à utilisateur,MODÉRÉE
+INC00000227,2019-02-16,Indisponibilité temporaire du système IRIS,MODÉRÉE
+INC00000689,2018-11-26,Incident sur SAB : transfert tâche bloqué,BAS
+INC00000104,2019-11-09,Incident SAB : dossier non chargé dans Process Center,MODÉRÉE
+INC00000422,2024-10-12,Blocage validation mise à jour tiers,MODÉRÉE
+INC00000420,2022-07-22,Indisponibilité temporaire du système IRIS,MODÉRÉE
+INC00000751,2018-10-16,Exécution d'une Requête SQL SAB des mouvements comptables,BAS
+INC00000587,2018-12-04,Blocage validation mise à jour tiers,BAS
+INC00000781,2020-09-24,OD Régul representation en attente,BAS
+INC00000673,2024-11-20,Extraction des gratuites package suspendue,BAS
+INC00000120,2020-10-10,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,MODÉRÉE
+INC00000054,2025-06-10,Blocage au changement de classe de sécurité,TRÈS BAS
+INC00000152,2018-09-13,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,MODÉRÉE
+INC00000404,2024-01-05,Demande fichiers formules manquants,MODÉRÉE
+INC00000946,2022-04-07,Rejets comptables sur export SAP,BAS
+INC00000208,2025-07-21,Blocage accès SAB - authentification refusée,MODÉRÉE
+INC00000659,2023-08-22,Blocage validation mise à jour tiers,BAS
+INC00000844,2023-10-06,Erreur McAfee sur VM critique,BAS
+INC00000763,2021-01-13,Demande de transfert mail service titre,BAS
+INC00000009,2025-06-16,Incident sur SAB : signatures manquantes,ÉLEVÉE
+INC00000808,2022-04-16,Demande d'habilitation SAB refusée pour le DA Commerce,BAS
+INC00000037,2025-01-16,Demande de transfert mail service titre,TRÈS BAS
+INC00000453,2018-08-16,Transfert demande d'habilitation DA provisoire,MODÉRÉE
+INC00000652,2018-01-15,Blocage au changement de classe de sécurité,BAS
+INC00000254,2023-04-26,Incident SAB : dossier non chargé dans Process Center,MODÉRÉE
+INC00000304,2020-09-23,Blocage accès module Reporting,MODÉRÉE
+INC00000747,2020-02-23,Requête d'insertion garanties internationales,BAS
+INC00000572,2018-12-02,Indisponibilité temporaire du système IRIS,BAS
+INC00000624,2021-11-23,Suppression mouvement non autorisée sur SAB,BAS
+INC00000733,2020-01-07,Requête d'insertion garanties internationales,BAS
+INC00000892,2019-07-04,Profil collateral non affecté à utilisateur,BAS
+INC00000263,2023-07-22,Requête d'insertion garanties internationales,MODÉRÉE
+INC00000611,2021-08-20,Blocage au changement de classe de sécurité,BAS
+INC00000298,2022-06-04,OD Régul representation en attente,MODÉRÉE
+INC00000415,2019-12-18,Blocage au changement de classe de sécurité,MODÉRÉE
+INC00000151,2024-03-20,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,MODÉRÉE
+INC00000789,2018-06-04,Incident SAB : validation des données temporaires échouée,BAS
+INC00000641,2024-11-06,Requête d'insertion garanties internationales,BAS
+INC00000890,2018-05-25,Extraction des gratuites package suspendue,BAS
+INC00000551,2020-02-17,OD Régul representation en attente,BAS
+INC00000887,2023-08-18,Spool EICED001P1 non généré,BAS
+INC00000489,2018-01-11,Spool EICED001P1 non généré,BAS
+INC00000148,2020-06-11,Erreur application dans module des habilitations,MODÉRÉE
+INC00000147,2022-06-06,Blocage accès module Reporting,MODÉRÉE
+INC00000721,2022-05-09,Exécution d'une Requête SQL SAB des mouvements comptables,BAS
+INC00000932,2022-02-13,Transfert demande d'habilitation DA provisoire,BAS
+INC00000740,2025-03-31,Indisponibilité temporaire du système IRIS,BAS
+INC00000660,2025-04-13,Blocage validation mise à jour tiers,BAS
+INC00000349,2020-10-11,Blocage validation mise à jour tiers,MODÉRÉE
+INC00000464,2021-05-17,Extraction des gratuites package suspendue,MODÉRÉE
+INC00000326,2019-02-21,Erreur McAfee sur VM critique,MODÉRÉE
+INC00000187,2018-10-01,Demande fichiers formules manquants,MODÉRÉE
+INC00000124,2019-10-25,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,MODÉRÉE
+INC00000854,2022-03-26,Requête d'insertion garanties internationales,BAS
+INC00000609,2021-10-13,Demande fichiers formules manquants,BAS
+INC00000144,2024-11-03,Blocage lors de validation du virement,MODÉRÉE
+INC00000959,2018-05-02,Erreur application dans module des habilitations,BAS
+INC00000198,2020-11-14,Incident SAB : dossier non chargé dans Process Center,MODÉRÉE
+INC00000610,2021-05-26,Exécution d'une Requête SQL SAB des mouvements comptables,BAS
+INC00000280,2019-03-12,Incident sur SAB : transfert tâche bloqué,MODÉRÉE
+INC00000294,2024-04-14,Incident SAB : validation des données temporaires échouée,MODÉRÉE
+INC00000401,2024-09-12,Rejets comptables sur export SAP,MODÉRÉE
+INC00000123,2022-04-11,Incident sur SAB : transfert tâche bloqué,MODÉRÉE
+INC00000184,2018-04-28,Incident SAB : validation des données temporaires échouée,MODÉRÉE
+INC00000203,2021-07-26,Rejets comptables sur export SAP,MODÉRÉE
+INC00000439,2019-11-10,Demande de transfert mail service titre,MODÉRÉE
+INC00000247,2019-04-29,Spool EICED001P1 non généré,MODÉRÉE
+INC00000416,2022-09-01,Demande d'information sur process core prod,MODÉRÉE
+INC00000933,2022-05-04,Validation virement échouée suite à une erreur système,BAS
+INC00000766,2018-07-04,Transfert demande d'habilitation DA provisoire,BAS
+INC00000907,2023-05-23,Blocage lors de validation du virement,BAS
+INC00000836,2020-10-08,Blocage au changement de classe de sécurité,BAS
+INC00000888,2022-10-15,Spool EICED001P1 non généré,BAS
+INC00000130,2020-04-25,Demande de transfert mail service titre,MODÉRÉE
+INC00000638,2022-04-09,Demande de transfert mail service titre,BAS
+INC00000403,2021-01-17,Incident sur SAB : transfert tâche bloqué,MODÉRÉE
+INC00000785,2019-06-09,Spool EICED001P1 non généré,BAS
+INC00000771,2022-01-18,Transfert demande d'habilitation DA provisoire,BAS
+INC00000736,2018-06-04,Exécution d'une Requête SQL SAB des mouvements comptables,BAS
+INC00000914,2019-09-06,Demande de transfert mail service titre,BAS
+INC00000220,2022-01-13,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,MODÉRÉE
+INC00000642,2023-12-05,Absence de la tâche 'validation multiple' dans SAB,BAS
+INC00000916,2018-06-18,Rejets comptables sur export SAP,BAS
+INC00000753,2020-11-04,Demande d'habilitation SAB refusée pour le DA Commerce,BAS
+INC00000807,2022-04-14,Incident sur SAB : transfert tâche bloqué,BAS
+INC00000920,2018-10-26,Incident sur SAB : transfert tâche bloqué,BAS
+INC00000625,2024-03-22,Transfert demande d'habilitation DA provisoire,BAS
+INC00000875,2025-11-06,Indisponibilité temporaire du système IRIS,BAS
+INC00000761,2021-08-22,Exécution d'une Requête SQL SAB des mouvements comptables,BAS
+INC00000387,2020-03-02,Blocage au changement de classe de sécurité,MODÉRÉE
+INC00000973,2025-10-31,Blocage lors de validation du virement,BAS
+INC00000510,2018-10-18,Demande de transfert mail service titre,BAS
+INC00000268,2024-01-08,Absence de la tâche 'validation multiple' dans SAB,MODÉRÉE
+INC00000820,2025-12-25,Reprise extraction report bmsa non conforme,BAS
+INC00000442,2018-01-21,Demande d'information sur process core prod,MODÉRÉE
+INC00000497,2023-07-18,Demande fichiers formules manquants,BAS
+INC00000113,2018-01-07,Blocage au changement de classe de sécurité,MODÉRÉE
+INC00000692,2018-04-14,Spool EICED001P1 non généré,BAS
+INC00000233,2020-02-29,Profil collateral non affecté à utilisateur,MODÉRÉE
+INC00000870,2019-09-26,Indisponibilité temporaire du système IRIS,BAS
+INC00000608,2024-01-26,Exécution d'une Requête SQL SAB des mouvements comptables,BAS
+INC00000672,2024-05-06,Validation virement échouée suite à une erreur système,BAS
+INC00000374,2020-05-13,Validation virement échouée suite à une erreur système,MODÉRÉE
+INC00000982,2018-07-28,Blocage accès SAB - authentification refusée,BAS
+INC00000843,2020-12-28,Incident sur SAB : transfert tâche bloqué,BAS
+INC00000234,2023-01-09,Incident sur SAB : transfert tâche bloqué,MODÉRÉE
+INC00000786,2021-11-29,Incident sur SAB : signatures manquantes,BAS
+INC00000677,2025-05-06,Exécution d'une Requête SQL SAB des mouvements comptables,BAS
+INC00000318,2025-05-05,Rejets comptables sur export SAP,MODÉRÉE
+INC00000649,2023-02-09,Erreur McAfee sur VM critique,BAS
+INC00000411,2024-05-27,Demande fichiers formules manquants,MODÉRÉE
+INC00000899,2018-08-20,Validation virement échouée suite à une erreur système,BAS
+INC00000710,2022-05-24,Spool EICED001P1 non généré,BAS
+INC00000359,2023-06-01,Incident SAB : dossier non chargé dans Process Center,MODÉRÉE
+INC00000259,2025-04-22,Blocage validation mise à jour tiers,MODÉRÉE
+INC00000745,2021-09-17,Blocage lors de validation du virement,BAS
+INC00000628,2021-01-10,Indisponibilité temporaire du système IRIS,BAS
+INC00000633,2025-09-26,Rejets comptables sur export SAP,BAS
+INC00000283,2018-02-26,Rejets comptables sur export SAP,MODÉRÉE
+INC00000377,2025-05-27,Requête d'insertion garanties internationales,MODÉRÉE
+INC00000385,2020-08-20,Demande d'information sur process core prod,MODÉRÉE
+INC00000225,2022-02-13,Demande d'habilitation SAB refusée pour le DA Commerce,MODÉRÉE
+INC00000954,2022-03-27,Exécution d'une Requête SQL SAB des mouvements comptables,BAS
+INC00000815,2021-02-19,Requête d'insertion garanties internationales,BAS
+INC00000473,2025-07-15,Rejets comptables sur export SAP,MODÉRÉE
+INC00000348,2019-10-01,Blocage validation mise à jour tiers,MODÉRÉE
+INC00000506,2024-08-16,Demande fichiers formules manquants,BAS
+INC00000640,2020-03-04,Incident sur SAB : transfert tâche bloqué,BAS
+INC00000988,2023-08-28,Erreur McAfee sur VM critique,BAS
+INC00000929,2022-07-29,Incident SAB : validation des données temporaires échouée,BAS
+INC00000906,2023-03-11,Blocage accès module Reporting,BAS
+INC00000620,2021-10-13,Blocage accès SAB - authentification refusée,BAS
+INC00000856,2020-01-22,Demande d'information sur process core prod,BAS
+INC00000804,2024-08-30,Transfert demande d'habilitation DA provisoire,BAS
+INC00000646,2024-02-02,OD Régul representation en attente,BAS
+INC00000847,2025-04-06,Blocage lors de validation du virement,BAS
+INC00000557,2023-08-25,Demande d'information sur process core prod,BAS
+INC00000958,2020-12-20,Blocage accès module Reporting,BAS
+INC00000578,2022-10-12,Incident SAB : validation des données temporaires échouée,BAS
+INC00000796,2019-06-08,Requête d'insertion garanties internationales,BAS
+INC00000086,2023-09-03,Spool EICED001P1 non généré,MODÉRÉE
+INC00000243,2022-12-03,Blocage accès SAB - authentification refusée,MODÉRÉE
+INC00000699,2024-03-12,Exécution d'une Requête SQL SAB des mouvements comptables,BAS
+INC00000160,2021-06-02,Blocage lors de validation du virement,MODÉRÉE
+INC00000525,2024-08-08,Spool EICED001P1 non généré,BAS
+INC00000036,2025-09-20,Demande d'habilitation SAB refusée pour le DA Commerce,TRÈS BAS
+INC00000541,2018-08-17,Blocage au changement de classe de sécurité,BAS
+INC00000171,2018-10-31,Incident SAB : validation des données temporaires échouée,MODÉRÉE
+INC00000655,2020-10-28,Extraction des gratuites package suspendue,BAS
+INC00000891,2025-06-30,Incident sur SAB : transfert tâche bloqué,BAS
+INC00000858,2025-11-09,Incident SAB : dossier non chargé dans Process Center,BAS
+INC00000848,2019-08-31,Extraction des gratuites package suspendue,BAS
+INC00000945,2024-08-05,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,BAS
+INC00000734,2022-12-24,Demande fichiers formules manquants,BAS
+INC00000096,2021-06-21,Demande fichiers formules manquants,MODÉRÉE
+INC00000564,2019-04-04,Incident SAB : validation des données temporaires échouée,BAS
+INC00000241,2024-01-22,Blocage validation mise à jour tiers,MODÉRÉE
+INC00000743,2021-09-25,Indisponibilité temporaire du système IRIS,BAS
+INC00000575,2018-09-21,Blocage accès module Reporting,BAS
+INC00000691,2025-07-01,Demande de transfert mail service titre,BAS
+INC00000461,2024-03-08,Transfert demande d'habilitation DA provisoire,MODÉRÉE
+INC00000554,2025-01-11,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,BAS
+INC00000889,2019-05-03,Exécution d'une Requête SQL SAB des mouvements comptables,BAS
+INC00000207,2024-10-24,Demande d'habilitation SAB refusée pour le DA Commerce,MODÉRÉE
+INC00000393,2025-08-11,Rejets comptables sur export SAP,MODÉRÉE
+INC00000795,2023-08-10,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,BAS
+INC00000398,2019-07-04,Demande d'habilitation SAB refusée pour le DA Commerce,MODÉRÉE
+INC00000767,2020-01-26,Incident sur SAB : signatures manquantes,BAS
+INC00000849,2024-09-20,Blocage accès module Reporting,BAS
+INC00000218,2022-09-26,Validation virement échouée suite à une erreur système,MODÉRÉE
+INC00000005,2025-07-14,Blocage au changement de classe de sécurité,ÉLEVÉE
+INC00000769,2020-08-24,Rejets comptables sur export SAP,BAS
+INC00000643,2020-04-12,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,BAS
+INC00000930,2021-07-07,Validation virement échouée suite à une erreur système,BAS
+INC00000613,2021-07-12,Rejets comptables sur export SAP,BAS
+INC00000739,2024-11-30,Blocage accès SAB - authentification refusée,BAS
+INC00000547,2022-09-21,Indisponibilité temporaire du système IRIS,BAS
+INC00000726,2024-09-09,Demande fichiers formules manquants,BAS
+INC00000684,2023-06-09,Reprise extraction report bmsa non conforme,BAS
+INC00000099,2020-08-12,Erreur McAfee sur VM critique,MODÉRÉE
+INC00000805,2020-05-24,Incident sur SAB : transfert tâche bloqué,BAS
+INC00000728,2018-03-12,Incident SAB : dossier non chargé dans Process Center,BAS
+INC00000574,2020-07-01,Facturation bloquée suite à une erreur sur INSTANT PAYMENT,BAS
+INC00000407,2018-07-02,Requête d'insertion garanties internationales,MODÉRÉE
+INC00000503,2020-12-05,Spool EICED001P1 non généré,BAS
+INC00000048,2020-09-06,Spool EICED001P1 non généré,TRÈS BAS
+INC00000033,2025-02-06,Transfert demande d'habilitation DA provisoire,TRÈS BAS
+INC00000780,2023-05-11,Blocage au changement de classe de sécurité,BAS
+INC00000840,2025-07-29,Transfert mail vers BMCI BACK OFFICE MONÉTIQUE,BAS

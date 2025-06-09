@@ -35,10 +35,7 @@ except:
     stop_words = set(stopwords.words('french'))
 
 class AdvancedIncidentSimilarity:
-    """
-    Système avancé de recherche de similarité pour incidents IT
-    Utilise une approche hybride multi-modèles pour une précision maximale
-    """
+
     
     def __init__(self, language='french'):
         self.language = language
@@ -68,6 +65,7 @@ class AdvancedIncidentSimilarity:
         
         # 2. Modèle Sentence-BERT multilingue
         self.models['sbert'] = SentenceTransformer('distiluse-base-multilingual-cased')
+
         
         # 3. Modèle CamemBERT pour le français (si disponible)
         try:

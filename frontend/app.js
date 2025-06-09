@@ -428,7 +428,7 @@ const SimilarityDashboard = () => {
               <div className="space-y-3 text-blue-800">
                 <p><strong>Pour la production:</strong> Utilisez l'approche hybride pour optimiser précision et performance</p>
                 <p><strong>Pour le développement:</strong> TF-IDF pour les tests rapides, SBERT pour l'analyse approfondie</p>
-                <p><strong>Mise à l'échelle:</strong> Implémentez FAISS pour gérer des volumes importants (>100k incidents)</p>
+                <p><strong>Mise à l'échelle:</strong> Implémentez FAISS pour gérer des volumes importants (100k incidents)</p>
                 <p><strong>Optimisation:</strong> Réentraînement mensuel des modèles avec les nouveaux incidents</p>
               </div>
             </div>
