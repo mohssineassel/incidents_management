@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+
+
+
 /* Style de base du corps (fond gris très clair pour contraster avec les cartes blanches) */
 body {
   @apply bg-gray-100;

@@ -1,18 +1,4 @@
-# from faiss_model import ajouter_incident, rechercher_incidents
-
-# # --- Ajouter des incidents ---
-# ajouter_incident("Erreur de connexion au serveur principal")
-# ajouter_incident("Problème d'accès à la base de données")
-# ajouter_incident("Incident critique sur le logiciel X")
-# ajouter_incident("Erreur de réseau dans l'application interne")
-
-# # --- Rechercher ---
-# print("\nRésultats de recherche :")
-# rechercher_incidents("Connexion à la base de données")
-
-
-# Données CSV sous forme de chaîne de caractères
-contenu = """ID,Date,Description,Priorite
+ID,Date,Description,Priorite
 INC00000001,2023-01-15,Blocage validation virement SWIFT - client corporate bloqué sur transfert international,CRITIQUE
 INC00000002,2023-02-28,Panne générale système de paiement instantané - tous les virements instantanés échouent,CRITIQUE
 INC00000003,2023-03-12,Incident SAB : échec validation multiple comptes entreprise - blocage opérations comptables,ELEVE
@@ -581,8 +567,4 @@ INC00000565,2024-10-08,Demande accès module innovation fintech,BAS
 INC00000566,2024-11-25,Incident création profil data scientist,BAS
 INC00000567,2024-12-12,Problème synchronisation base machine learning,BAS
 INC00000568,2025-01-29,Demande installation framework blockchain,BAS
-INC00000569,2025-02-15,Incident configuration API bancaire,BAS"""
-
-# Écriture dans un fichier .csv
-with open("incidents_critique.csv", "w", encoding="utf-8") as f:
-    f.write(contenu)
+INC00000569,2025-02-15,Incident configuration API bancaire,BAS

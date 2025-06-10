@@ -2,7 +2,9 @@ import React from 'react';
 import { createRoot } from 'react-dom/client';
 import { BrowserRouter } from 'react-router-dom';
 import App from './App';
-import './index.css';  // Importation des styles TailwindCSS
+
+import './index.css'; // Importation des styles globaux
+// Importation des styles globaux (par exemple, Tailwind CSS)
 
 // Sélection de l'élément HTML racine
 const container = document.getElementById('root');
